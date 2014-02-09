@@ -8,9 +8,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2014-02-09 04:28+0100\n"
+"Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.6.4\n"
 
 #: 404.php:16
 msgid "Oops! That page can&rsquo;t be found."
@@ -21,8 +24,8 @@ msgid ""
 "It looks like nothing was found at this location. Maybe try one of the links "
 "below or a search?"
 msgstr ""
-"Il semble que rien n'a été trouvé à cet endroit. Peut-être essayer un des liens "
-"ci-dessous ou une recherche ?"
+"Il semble que rien n'a été trouvé à cet endroit. Peut-être essayer un des "
+"liens ci-dessous ou une recherche ?"
 
 #: 404.php:28
 msgid "Most Used Categories"
@@ -93,8 +96,8 @@ msgstr "Archives"
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Une pensée sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensées sur &ldquo;%2$s&rdquo;"
 
 #: comments.php:36 comments.php:59
 msgid "Comment navigation"
@@ -194,7 +197,7 @@ msgid "Sidebar"
 msgstr "Barre latérale"
 
 #. translators: If there are characters in your language that are not supported
-#. 	   by Montserrat, translate this to 'off'. Do not translate into your own
+#. by Montserrat, translate this to 'off'. Do not translate into your own
 #. language.
 #: functions.php:121
 msgctxt "Montserrat font: on or off"
@@ -227,9 +230,10 @@ msgid ""
 "comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
 "title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
 msgstr ""
-"<a class="comment-link" href="#respond" title="Post a comment"> post un "
-"Commentaire</a> ou laisser un trackback: < une class = « rétrolien » href = « %s » "
-"titre = « URL de Trackback pour votre » rel = « trackback » > Trackback URL</a>."
+"<a class=\"comment-link\" href=\"#respond\" title=\"Poster un commentaire"
+"\">Poster un commentaire</a> ou laisser un trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"URL de trackback pour votre article\" rel="
+"\"trackback\">URL de trackback</a>."
 
 #: image.php:68
 msgid ""
@@ -237,29 +241,30 @@ msgid ""
 "\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
 "\">Trackback URL</a>."
 msgstr ""
-"Les commentaires sont fermés, mais vous pouvez laisser un trackback: < une class = "trackback-lien"
-""href ="%s"title ="URL de Trackback pour votre"rel ="trackback"
-"« > Trackback URL</a>."
+"Les commentaires sont fermés, mais vous pouvez laisser un trackback: <a "
+"class=\"trackback-link\" href=\"%s\" title=\"URL de trackback pour votre "
+"article\" rel=\"trackback\">URL de trackback</a>."
 
 #: image.php:70
 msgid ""
 "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
 "\" title=\"Post a comment\">post a comment</a>."
 msgstr ""
-"Rétroliens sont fermés, mais vous pouvez < une class = « commentaire-lien » href = "#respond"
-"« titre = « Poster un commentaire » > poster un commentaire</a>."
+"Rétroliens sont fermés, mais vous pouvez < une class = « commentaire-lien » "
+"href = "
 
+# respond« titre = « Poster un commentaire » > poster un commentaire</a>."
 #: image.php:72
 msgid "Both comments and trackbacks are currently closed."
 msgstr "Les commentaires et trackbacks sont actuellement fermés."
 
 #: image.php:82
 msgid "<span class=\"genericon genericon-leftarrow\"></span> Previous"
-msgstr "<span class="genericon genericon-leftarrow"></span> précédent"
+msgstr "<span class=\"genericon genericon-leftarrow\"></span> précédent"
 
 #: image.php:83
 msgid "Next <span class=\"genericon genericon-rightarrow\"></span>"
-msgstr "Prochain <span class="genericon genericon-rightarrow"></span>"
+msgstr "Suivant <span class=\"genericon genericon-rightarrow\"></span>"
 
 #: inc/customizer.php:20
 msgid "Theme Options"
@@ -311,19 +316,20 @@ msgstr "Poste navigation"
 
 #: inc/template-tags.php:38
 msgid "<span class=\"genericon genericon-leftarrow\"></span> %title"
-msgstr "<span class="genericon genericon-leftarrow"></span> % titre"
+msgstr "<span class=\"genericon genericon-leftarrow\"></span> %title"
 
 #: inc/template-tags.php:39
 msgid "%title <span class=\"genericon genericon-rightarrow\"></span>"
-msgstr "titre % <span class="genericon genericon-rightarrow"></span>"
+msgstr "%title <span class=\"genericon genericon-rightarrow\"></span>"
 
 #: inc/template-tags.php:44
 msgid "<span class=\"genericon genericon-leftarrow\"></span> Older posts"
-msgstr "<span class="genericon genericon-leftarrow"></span> anciens messages"
+msgstr "<span class=\"genericon genericon-leftarrow\"></span> anciens messages"
 
 #: inc/template-tags.php:48
 msgid "Newer posts  <span class=\"genericon genericon-rightarrow\"></span>"
-msgstr "Plus récents messages <span class="genericon genericon-rightarrow"></span>"
+msgstr ""
+"Plus récents messages <span class=\"genericon genericon-rightarrow\"></span>"
 
 #: inc/template-tags.php:71
 msgid "Pingback:"
@@ -375,15 +381,15 @@ msgstr "Rien trouvé"
 msgid ""
 "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
-"Prêt à publier votre premier message ? <a href="%1$s"> commencer ici</a>."
+"Prêt à publier votre premier article? <a href=\"%1$s\">Commencez ici</a>."
 
 #: no-results.php:23
 msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
 msgstr ""
-"Désolé, mais rien ne correspondait à vos termes de recherche. S'il vous plaît essayer de nouveau avec certains "
-"Mots clés différents."
+"Désolé, mais rien ne correspondait à vos termes de recherche. S'il vous "
+"plaît essayer de nouveau avec certains Mots clés différents."
 
 #: no-results.php:28
 msgid ""
@@ -422,10 +428,11 @@ msgid ""
 "(default), blue, green, grey, purple, and red. With a modern look and "
 "attention to crisp typography, Writr put the focus on your content."
 msgstr ""
-"Writr est un thème minimaliste, axée sur le contenu de tumblelog parfait pour votre "
-"blog personnel. Il est livré avec 6 jeux de couleurs différents : turquoise "
-"(par défaut), bleu, vert, gris, violet et rouge. Avec un look moderne et "
-"attention aux croustillants de typographie, Writr met l'accent sur votre contenu."
+"Writr est un thème minimaliste, axée sur le contenu de tumblelog parfait "
+"pour votre blog personnel. Il est livré avec 6 jeux de couleurs différents : "
+"turquoise (par défaut), bleu, vert, gris, violet et rouge. Avec un look "
+"moderne et attention aux croustillants de typographie, Writr met l'accent "
+"sur votre contenu."
 
 #. Author of the plugin/theme
 msgid "Automattic"
