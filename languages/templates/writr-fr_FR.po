@@ -1,0 +1,436 @@
+# Copyright (C) 2013 Automattic
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Writr 1.0.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/writr\n"
+"POT-Creation-Date: 2013-12-03 17:51:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page est introuvable."
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il semble que rien n'a été trouvé à cet endroit. Peut-être essayer un des liens "
+"ci-dessous ou une recherche ?"
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisés"
+
+#. translators: %1$s: smiley
+#: 404.php:45
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez de rechercher dans les archives mensuelles. %1$ s"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "Année : %s"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "Apartés"
+
+#: archive.php:51
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:54
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:57
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:60
+msgid "Links"
+msgstr "Liens"
+
+#: archive.php:63
+msgid "Galleries"
+msgstr "Galeries"
+
+#: archive.php:66
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:69
+msgid "Statuses"
+msgstr "Statuts"
+
+#: archive.php:72
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:75
+msgid "Archives"
+msgstr "Archives"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36 comments.php:59
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#: comments.php:37
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:38
+msgid "Newer Comments"
+msgstr "Commentaires récents"
+
+#: comments.php:60
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires âgées"
+
+#: comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr "Plus récents commentaires &rarr;"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: content-page.php:19
+msgid "Page"
+msgstr "Page"
+
+#: content-page.php:26 content-single.php:36 content.php:45 image.php:39
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-page.php:31 image.php:76 inc/template-tags.php:71
+#: inc/template-tags.php:112 inc/template-tags.php:267
+msgid "Edit"
+msgstr "Edit"
+
+#: content-single.php:26 content.php:30
+msgid "All %s posts"
+msgstr "Tous les messages de %s"
+
+#: content-single.php:28 content.php:32
+msgid "Standard"
+msgstr "Norme"
+
+#: content.php:21
+msgid "Permalink to %s"
+msgstr "Lien permanent vers %s"
+
+#: content.php:28
+msgid "Sticky"
+msgstr "Post-it"
+
+#: content.php:42
+msgid "Continue reading"
+msgstr "Continuer la lecture"
+
+#: footer.php:31 footer.php:32
+msgid "Twitter"
+msgstr "Twitter"
+
+#: footer.php:39 footer.php:40
+msgid "Facebook"
+msgstr "Facebook"
+
+#: footer.php:47 footer.php:48
+msgid "Google+"
+msgstr "Google +"
+
+#: footer.php:55 footer.php:56
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: footer.php:63 footer.php:64
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: footer.php:74
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Une personnelle sémantique plate-forme d'édition"
+
+#: footer.php:74
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:75
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème : %1$ s %2$ s."
+
+#: functions.php:71
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:105
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#. translators: If there are characters in your language that are not supported
+#. 	   by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:121
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: header.php:24
+msgid "Open sidebar"
+msgstr "Barre latérale ouverte"
+
+#: header.php:42
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:43
+msgid "Skip to content"
+msgstr "Passer au contenu"
+
+#: image.php:49 inc/template-tags.php:219
+msgid "Date"
+msgstr "Date"
+
+#: image.php:54
+msgid "Size"
+msgstr "Taille"
+
+#: image.php:66
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class="comment-link" href="#respond" title="Post a comment"> post un "
+"Commentaire</a> ou laisser un trackback: < une class = « rétrolien » href = « %s » "
+"titre = « URL de Trackback pour votre » rel = « trackback » > Trackback URL</a>."
+
+#: image.php:68
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Les commentaires sont fermés, mais vous pouvez laisser un trackback: < une class = "trackback-lien"
+""href ="%s"title ="URL de Trackback pour votre"rel ="trackback"
+"« > Trackback URL</a>."
+
+#: image.php:70
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Rétroliens sont fermés, mais vous pouvez < une class = « commentaire-lien » href = "#respond"
+"« titre = « Poster un commentaire » > poster un commentaire</a>."
+
+#: image.php:72
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Les commentaires et trackbacks sont actuellement fermés."
+
+#: image.php:82
+msgid "<span class=\"genericon genericon-leftarrow\"></span> Previous"
+msgstr "<span class="genericon genericon-leftarrow"></span> précédent"
+
+#: image.php:83
+msgid "Next <span class=\"genericon genericon-rightarrow\"></span>"
+msgstr "Prochain <span class="genericon genericon-rightarrow"></span>"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Options de thème"
+
+#: inc/customizer.php:30
+msgid "Full Page Background Image"
+msgstr "Image de fond pleine Page"
+
+#: inc/customizer.php:41
+msgid "Wider Content Area"
+msgstr "Zone de contenu élargie"
+
+#: inc/customizer.php:52
+msgid "Color Scheme"
+msgstr "Jeu de couleurs"
+
+#: inc/customizer.php:56
+msgid "Turquoise"
+msgstr "Turquoise"
+
+#: inc/customizer.php:57
+msgid "Blue"
+msgstr "Bleu"
+
+#: inc/customizer.php:58
+msgid "Green"
+msgstr "Vert"
+
+#: inc/customizer.php:59
+msgid "Grey"
+msgstr "Gris"
+
+#: inc/customizer.php:60
+msgid "Purple"
+msgstr "Purple"
+
+#: inc/customizer.php:61
+msgid "Red"
+msgstr "Rouge"
+
+#: inc/extras.php:76
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Poste navigation"
+
+#: inc/template-tags.php:38
+msgid "<span class=\"genericon genericon-leftarrow\"></span> %title"
+msgstr "<span class="genericon genericon-leftarrow"></span> % titre"
+
+#: inc/template-tags.php:39
+msgid "%title <span class=\"genericon genericon-rightarrow\"></span>"
+msgstr "titre % <span class="genericon genericon-rightarrow"></span>"
+
+#: inc/template-tags.php:44
+msgid "<span class=\"genericon genericon-leftarrow\"></span> Older posts"
+msgstr "<span class="genericon genericon-leftarrow"></span> anciens messages"
+
+#: inc/template-tags.php:48
+msgid "Newer posts  <span class=\"genericon genericon-rightarrow\"></span>"
+msgstr "Plus récents messages <span class="genericon genericon-rightarrow"></span>"
+
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr "Pingback :"
+
+#: inc/template-tags.php:85
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: inc/template-tags.php:99
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$ s %2$ s"
+
+#: inc/template-tags.php:231
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/template-tags.php:232
+msgid "View all posts by %s"
+msgstr "Afficher tous les messages de %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:247
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/template-tags.php:260
+msgid "Comments"
+msgstr "Commentaires"
+
+#: inc/template-tags.php:261
+msgid "Leave a Comment"
+msgstr "Laisser un commentaire"
+
+#: inc/template-tags.php:261
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: inc/template-tags.php:261
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Rien trouvé"
+
+#: no-results.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier message ? <a href="%1$s"> commencer ici</a>."
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspondait à vos termes de recherche. S'il vous plaît essayer de nouveau avec certains "
+"Mots clés différents."
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne pouvons pas trouver ce que vous recherchez. Peut-être "
+"la recherche peut aider."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: searchform.php:10 searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Recherche pour :"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Recherche &hellip;"
+
+#. Theme Name of the plugin/theme
+msgid "Writr"
+msgstr "Writr"
+
+#. Theme URI of the plugin/theme
+msgid "http://theme.wordpress.com/themes/writr/"
+msgstr "http://Theme.wordpress.com/themes/writr/"
+
+#. Description of the plugin/theme
+msgid ""
+"Writr is a minimalist, content-oriented tumblelog theme perfect for your "
+"personal blog. It comes packed with 6 different color schemes: turquoise "
+"(default), blue, green, grey, purple, and red. With a modern look and "
+"attention to crisp typography, Writr put the focus on your content."
+msgstr ""
+"Writr est un thème minimaliste, axée sur le contenu de tumblelog parfait pour votre "
+"blog personnel. Il est livré avec 6 jeux de couleurs différents : turquoise "
+"(par défaut), bleu, vert, gris, violet et rouge. Avec un look moderne et "
+"attention aux croustillants de typographie, Writr met l'accent sur votre contenu."
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "http://theme.wordpress.com/"
+msgstr "http://Theme.wordpress.com/"

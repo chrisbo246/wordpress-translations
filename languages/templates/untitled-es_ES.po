@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Untitled v1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-08-17 23:16+0100\n"
+"Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ untitled
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡ Uy! Esa página no se encuentra.Búsqueda"
+
+# @ untitled
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Parece que no encontraron nada en este lugar. ¿Tal vez pruebe uno de los "
+"enlaces de abajo o una búsqueda?"
+
+# @ untitled
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "La mayoría utiliza categorías"
+
+# @ untitled
+#. translators: %1$s: smiley
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intenta buscar en los archivos mensuales. %1$s"
+
+# @ untitled
+#: archive.php:22
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archivo de la categoría: %s"
+
+# @ untitled
+#: archive.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archivo de la etiqueta: %s"
+
+# @ untitled
+#: archive.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archivo del autor: %s"
+
+# @ untitled
+#: archive.php:40
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+# @ untitled
+#: archive.php:43
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivos mensuales: %s"
+
+# @ untitled
+#: archive.php:46
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+# @ untitled
+#: archive.php:49
+msgid "Asides"
+msgstr "Apartes"
+
+# @ untitled
+#: archive.php:52
+msgid "Images"
+msgstr "Imágenes"
+
+# @ untitled
+#: archive.php:55
+msgid "Videos"
+msgstr "Videos"
+
+# @ untitled
+#: archive.php:58
+msgid "Quotes"
+msgstr "Citar"
+
+# @ untitled
+#: archive.php:61
+msgid "Links"
+msgstr "Enlaces"
+
+# @ untitled
+#: archive.php:64
+msgid "Archives"
+msgstr "Archivos"
+
+# @ untitled
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ untitled
+#: comments.php:50
+msgid "Comment navigation"
+msgstr "Navegación comentario"
+
+# @ untitled
+#: comments.php:51
+msgid "&larr; Older Comments"
+msgstr "&larr; Mayores comentarios"
+
+# @ untitled
+#: comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr "Nuevos comentarios &rarr;"
+
+# @ untitled
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+# @ untitled
+#: content-page.php:23 content-single.php:18 content-video.php:53
+#: content.php:53 image.php:93
+msgid "Pages:"
+msgstr "Páginas:"
+
+# @ untitled
+#: content-page.php:26 content-single.php:56 content-video.php:27
+#: content.php:27 image.php:34 image.php:107
+#, fuzzy
+msgid "Edit"
+msgstr "Editar"
+
+# @ untitled
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:24 content-single.php:27 slider.php:25
+msgid ", "
+msgstr ","
+
+# @ untitled
+#: content-single.php:32
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+# @ untitled
+#: content-single.php:34
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+# @ untitled
+#: content-single.php:40
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+# @ untitled
+#: content-single.php:42
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+# @ untitled
+#: content-video.php:9 content-video.php:24 content-video.php:42 content.php:9
+#: content.php:24 content.php:42 single.php:30 slider.php:20 slider.php:30
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+# @ untitled
+#: content-video.php:19 content-video.php:38 content.php:19 content.php:38
+msgid "0 comments"
+msgstr "0 Comentarios"
+
+# @ untitled
+#: content-video.php:19 content-video.php:38 content.php:19 content.php:38
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+# @ untitled
+#: content-video.php:19 content-video.php:38 content.php:19 content.php:38
+msgid "% Comments"
+msgstr "% Comentarios"
+
+# @ untitled
+#: content-video.php:52 content.php:52
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ untitled
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+# @ untitled
+#: footer.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+# @ untitled
+#: footer.php:21
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s %2$s."
+
+# @ untitled
+#: functions.php:60
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+# @ untitled
+#: functions.php:90
+msgid "Sidebar"
+msgstr ""
+
+# @ untitled
+#: functions.php:107
+msgctxt "Web font: on or off"
+msgid "on"
+msgstr "activo"
+
+# @ untitled
+#: header.php:42
+#, fuzzy
+msgid "Menu"
+msgstr "Menú"
+
+# @ untitled
+#: header.php:43
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+# @ untitled
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+# @ untitled
+#: image.php:38
+msgid "&larr; Previous"
+msgstr "&larr; anterior"
+
+# @ untitled
+#: image.php:39
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+# @ untitled
+#: image.php:99
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+# @ untitled
+#: image.php:101
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+# @ untitled
+#: image.php:103
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+# @ untitled
+#: image.php:105
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+# @ untitled
+#: inc/extras.php:74
+#, fuzzy, php-format
+msgid "Page %s"
+msgstr "Página %d"
+
+# @ untitled
+#: inc/jetpack.php:28
+msgid ""
+"The featured content section displays on the front page above the first post "
+"in the content area."
+msgstr ""
+
+# @ untitled
+#: inc/template-tags.php:38
+msgid "Post navigation"
+msgstr "Post navegación"
+
+# @ untitled
+#: inc/template-tags.php:48
+msgid "Older posts"
+msgstr ""
+
+# @ untitled
+#: inc/template-tags.php:52
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ untitled
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr ""
+
+# @ untitled
+#: inc/template-tags.php:77 inc/template-tags.php:100
+msgid "(Edit)"
+msgstr "(Edición)"
+
+# @ untitled
+#: inc/template-tags.php:87
+#, fuzzy, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "No se puede crear la ventana de clase %s"
+
+# @ untitled
+#: inc/template-tags.php:90
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ untitled
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:98
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ landscape
+#: inc/template-tags.php:125
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" "
+"datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> by <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+
+# @ landscape
+#: inc/template-tags.php:131
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+# @ untitled
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+# @ untitled
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ untitled
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+# @ untitled
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ untitled
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+# @ untitled
+#: searchform.php:9
+#, fuzzy
+msgctxt "assistive text"
+msgid "Search"
+msgstr "Buscar"
+
+# @ untitled
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+# @ untitled
+#: searchform.php:11
+#, fuzzy
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"

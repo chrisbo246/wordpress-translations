@@ -1,0 +1,404 @@
+# Copyright (C) 2014 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Syntax 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/syntax\n"
+"POT-Creation-Date: 2014-01-17 19:27:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-02-09 01:57+0100\n"
+"Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.6.4\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page est introuvable."
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il semble que rien n'a été trouvé à cet endroit. Peut-être essayer un des "
+"liens ci-dessous ou une recherche ?"
+
+#: archive.php:21
+msgid "Category Archives: %s"
+msgstr "Archives de catégorie : %s"
+
+#: archive.php:24
+msgid "Tag Archives: %s"
+msgstr "Archives par Tags : %s"
+
+#: archive.php:31
+msgid "Author Archives: %s"
+msgstr "Archives de l'auteur : %s"
+
+#: archive.php:39
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes : %s"
+
+#: archive.php:42
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles : %s"
+
+#: archive.php:45
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles : %s"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "Apartés"
+
+#: archive.php:51
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:54
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:57
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:60
+msgid "Links"
+msgstr "Liens"
+
+#: archive.php:63
+msgid "Archives"
+msgstr "Archives"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une pensée sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensées sur &ldquo;%2$s&rdquo;"
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires âgées"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Plus récents commentaires &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Rien trouvé"
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article? <a href=\"%1$s\">Commencez ici</a>."
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspondait à vos termes de recherche. S'il vous "
+"plaît essayer de nouveau avec certains Mots clés différents."
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne pouvons pas trouver ce que vous recherchez. Peut-être "
+"la recherche peut aider."
+
+#: content-page.php:18 content-single.php:21 content.php:33 image.php:77
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-page.php:23 content-single.php:38 content.php:58 image.php:108
+#: inc/template-tags.php:72 inc/template-tags.php:91
+msgid "Edit"
+msgstr "Edit"
+
+#: content-single.php:12 content.php:19
+msgid "All %s posts"
+msgstr "Tous les messages de %s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:31 content.php:45
+msgid ", "
+msgstr ", "
+
+#: content.php:30
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer la lecture <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:55
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: content.php:55
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: content.php:55
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: footer.php:20
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Une personnelle sémantique plate-forme d'édition"
+
+#: footer.php:20
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:22
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème : %1$ s %2$ s."
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:53
+msgid "Footer Menu"
+msgstr "Menu de pied de page"
+
+#: functions.php:78
+msgid "Footer Sidebar 1"
+msgstr "Pied de page Encadré 1"
+
+#: functions.php:86
+msgid "Footer Sidebar 2"
+msgstr "Pied de page Encadré 2"
+
+#: functions.php:94
+msgid "Footer Sidebar 3"
+msgstr "Pied de page Sidebar 3"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:136
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: header.php:47
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:52
+msgid "Google+"
+msgstr "Google +"
+
+#: header.php:57
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: header.php:62
+msgid "Path"
+msgstr "Chemin d'accès"
+
+#: header.php:67
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:72
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: header.php:80
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:82
+msgid "Skip to content"
+msgstr "Passer au contenu"
+
+#: image.php:20
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Précédent"
+
+#: image.php:21
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Suivant <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:87
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Publié <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
+"\">%2$s</time></span> à <a href=\"%3$s\" title=\"Lien vers l'image en pleine "
+"taille\">%4$s &times; %5$s</a> dans <a href=\"%6$s\" title=\"Retourner à %7$s"
+"\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:100
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Poster un commentaire"
+"\">Poster un commentaire</a> ou laisser un trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"URL de Trackback pour votre article\" rel="
+"\"trackback\">URL de trackback</a>."
+
+#: image.php:102
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Les commentaires sont fermés, mais vous pouvez laisser un trackback: <a "
+"class=\"trackback-link\" href=\"%s\" title=\"URL de Trackback pour votre "
+"article\" rel=\"trackback\">URL de trackback</a>."
+
+#: image.php:104
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Rétroliens sont fermés, mais vous pouvez < une class = « commentaire-lien » "
+"href = "
+
+# respond« titre = « Poster un commentaire » > poster un commentaire</a>."
+#: image.php:106
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Les commentaires et trackbacks sont actuellement fermés."
+
+#: inc/extras.php:66
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Poste navigation"
+
+#: inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Plus anciens messages"
+
+#: inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Messages plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:72
+msgid "Pingback:"
+msgstr "Pingback :"
+
+#: inc/template-tags.php:82
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dit :</span>"
+
+#: inc/template-tags.php:88
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$ s %2$ s"
+
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: inc/template-tags.php:120
+msgid ""
+"<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\">Featured</a></span><span class=\"byline\"><span class=\"author vcard\"><a "
+"class=\"url fn n\" href=\"%3$s\" title=\"%4$s\" rel=\"author\">%5$s</a></"
+"span></span>"
+msgstr ""
+"<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\">En vedette</a></span><span class=\"byline\"><span class=\"author vcard"
+"\"><a class=\"url fn n\" href=\"%3$s\" title=\"%4$s\" rel=\"author\">%5$s</"
+"a></span></span>"
+
+#: inc/template-tags.php:124 inc/template-tags.php:135
+msgid "View all posts by %s"
+msgstr "Afficher tous les messages de %s"
+
+#: inc/template-tags.php:129
+msgid ""
+"<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span><span "
+"class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span><span "
+"class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: searchform.php:9
+msgctxt "assistive text"
+msgid "Search"
+msgstr "Rechercher"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Recherche &hellip;"
+
+#: searchform.php:11
+msgctxt "submit button"
+msgid "Search"
+msgstr "Rechercher"
+
+#. Theme Name of the plugin/theme
+msgid "Syntax"
+msgstr "Syntaxe"
+
+#. Theme URI of the plugin/theme
+msgid "http://theme.wordpress.com/themes/syntax"
+msgstr "http://Theme.wordpress.com/themes/Syntax"
+
+#. Description of the plugin/theme
+msgid ""
+"Syntax is a theme designed with writing--and reading--in mind. With large, "
+"easy-to-read type, a fixed navigation menu, and a responsive design that "
+"looks beautiful on all screen sizes, it's perfect for writers or bloggers "
+"who want a clean, sophisticated look and feel for their site."
+msgstr ""
+"La syntaxe est un thème conçu avec écriture--et la lecture--à l'esprit. Avec "
+"grand, type facile à lire, un menu de navigation fixe et un réactif de "
+"conception qui semble beau toutes les tailles d'écran, il est parfait pour "
+"les écrivains ou les blogueurs qui veulent un look and feel et élégant pour "
+"leur site."
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "http://automattic.com"
+msgstr "http://Automattic.com"
