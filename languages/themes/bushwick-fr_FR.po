@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-02-09 00:19+0100\n"
+"PO-Revision-Date: 2014-02-10 21:39+0100\n"
 "Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -107,7 +107,8 @@ msgstr "Rien trouvé"
 msgid ""
 "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
-"Prêt à publier votre premier message ? <a href=\"%1$s\">Commencez ici</a>."
+"Prêt(e) à publier votre premier article? <a href=\"%1$s\">Lancez-vous ici</"
+"a>."
 
 #: content-none.php:22
 msgid ""
@@ -164,16 +165,16 @@ msgid ""
 "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
 "title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
 msgstr ""
-"Cette entrée a été publiée dans %1$ s et %2$ s. signet le tag le < a href = "
-"« %3$ s » titre = « Permalink %4$ s » rel = « bookmark » > permalink</a>."
+"Cette entrée a été publiée dans %1$s et taggé %2$s. Signet <a href=\"%3$s\" "
+"title=\"Lien permanent %4$s\" rel=\"bookmark\">lien permanent</a>."
 
 #: content-single.php:44
 msgid ""
 "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
 "\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
 msgstr ""
-"Cette entrée a été publiée dans %1$ s. signet le < a href = « %3$ s » titre "
-"=« Permalink %4$ s » rel = « bookmark » > permalink</a>."
+"Cette entrée a été publiée dans %1$s. Signet <a href=\"%3$s\" title=\"Lien "
+"permanent %4$s\" rel=\"bookmark\">lien permanent</a>."
 
 #: content.php:17
 msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
@@ -213,7 +214,7 @@ msgstr "<span class=\"meta-nav\"> &larr;</span> Précédent"
 
 #: image.php:25
 msgid "Next <span class=\"meta-nav\">&rarr;</span>"
-msgstr "Prochain <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Suivant <span class=\"meta-nav\">&rarr;</span>"
 
 #: image.php:55
 msgid ""
@@ -224,7 +225,7 @@ msgid ""
 msgstr ""
 "Publié le <span class=\"entry-date\"><time class=\"entry-date\" datetime="
 "\"%1$s\">%2$s</time></span> à <a href=\"%3$s\" title=\"Lien vers l'image en "
-"pleine largeur\">%4$s &times; %5$s</a> dans <a href=\"%6$s\" title="
+"pleine taille\">%4$s &times; %5$s</a> dans <a href=\"%6$s\" title="
 "\"Retourner à %7$s\" rel=\"gallery\">%8$s</a>"
 
 #: image.php:70
@@ -233,10 +234,10 @@ msgid ""
 "comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
 "title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
 msgstr ""
-"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\"> post "
-"un Commentaire</a> ou laisser un trackback: <a class = \"rétrolien\" href="
-"\"%s\" title=\"URL de Trackback pour votre article\" rel=\"trackback\">URL "
-"de trackback</a>."
+"<a class=\"comment-link\" href=\"#respond\" title=\"Poster un commentaire"
+"\">Poster un commentaire</a> ou laisser un rétrolien: <a class = \"rétrolien"
+"\" href=\"%s\" title=\"URL du rétrolien pour votre article\" rel=\"trackback"
+"\">URL du rétrolien</a>."
 
 #: image.php:72
 msgid ""
@@ -244,17 +245,17 @@ msgid ""
 "\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
 "\">Trackback URL</a>."
 msgstr ""
-"Les commentaires sont fermés, mais vous pouvez laisser un trackback: <a "
-"class = \"trackback-link\" href=\"%s\" title=\"URL de Trackback pour votre "
-"article\" rel =\"trackback\" >URL de trackback</a>."
+"Les commentaires sont fermés, mais vous pouvez laisser un rétrolien: <a "
+"class = \"trackback-link\" href=\"%s\" title=\"URL du rétrolien pour votre "
+"article\" rel =\"trackback\" >URL du rétrolien</a>."
 
 #: image.php:74
 msgid ""
 "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
 "\" title=\"Post a comment\">post a comment</a>."
 msgstr ""
-"Rétroliens sont fermés, mais vous pouvez < une class = « commentaire-lien » "
-"href = "
+"Les rétroliens sont fermés, mais vous pouvez  <a class=\"comment-link\" href="
+"\"#respond\" title=\"Poster un commentaire\">poster un commentaire</a>."
 
 # respond« titre = « Poster un commentaire » > poster un commentaire</a>."
 #: image.php:76
@@ -279,7 +280,7 @@ msgstr "Messages plus récents <span class=\"meta-nav\">&rarr;</span>"
 
 #: inc/template-tags.php:55
 msgid "Post navigation"
-msgstr "Poste navigation"
+msgstr "Navigation de l'article"
 
 #: inc/template-tags.php:58
 msgctxt "Previous post link"
