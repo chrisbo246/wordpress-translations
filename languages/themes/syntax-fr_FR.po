@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-02-10 21:39+0100\n"
+"PO-Revision-Date: 2014-03-09 19:36+0100\n"
 "Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -24,32 +24,32 @@ msgid ""
 "It looks like nothing was found at this location. Maybe try one of the links "
 "below or a search?"
 msgstr ""
-"Il semble que rien n'a été trouvé à cet endroit. Peut-être essayer un des "
-"liens ci-dessous ou une recherche ?"
+"Il semble que rien n'ai été trouvé à cet endroit. Essayez peut-être l'un des "
+"liens ci-dessous ou une recherche?"
 
 #: archive.php:21
 msgid "Category Archives: %s"
-msgstr "Archives de catégorie : %s"
+msgstr "Archives de catégorie: %s"
 
 #: archive.php:24
 msgid "Tag Archives: %s"
-msgstr "Archives par Tags : %s"
+msgstr "Archives des Tags: %s"
 
 #: archive.php:31
 msgid "Author Archives: %s"
-msgstr "Archives de l'auteur : %s"
+msgstr "Archives de l'auteur: %s"
 
 #: archive.php:39
 msgid "Daily Archives: %s"
-msgstr "Archives quotidiennes : %s"
+msgstr "Archives quotidiennes: %s"
 
 #: archive.php:42
 msgid "Monthly Archives: %s"
-msgstr "Archives mensuelles : %s"
+msgstr "Archives mensuelles: %s"
 
 #: archive.php:45
 msgid "Yearly Archives: %s"
-msgstr "Archives annuelles : %s"
+msgstr "Archives annuelles: %s"
 
 #: archive.php:48
 msgid "Asides"
@@ -88,11 +88,11 @@ msgstr "Navigation de commentaire"
 
 #: comments.php:37 comments.php:57
 msgid "&larr; Older Comments"
-msgstr "&larr; Commentaires âgées"
+msgstr "&larr; Anciens commentaires"
 
 #: comments.php:38 comments.php:58
 msgid "Newer Comments &rarr;"
-msgstr "Plus récents commentaires &rarr;"
+msgstr "Commentaires récents &rarr;"
 
 #: comments.php:68
 msgid "Comments are closed."
@@ -100,7 +100,7 @@ msgstr "Les commentaires sont fermés."
 
 #: content-none.php:13
 msgid "Nothing Found"
-msgstr "Rien trouvé"
+msgstr "Rien n'a été trouvé"
 
 #: content-none.php:19
 msgid ""
@@ -115,24 +115,24 @@ msgid ""
 "different keywords."
 msgstr ""
 "Désolé, mais rien ne correspondait à vos termes de recherche. S'il vous "
-"plaît essayer de nouveau avec certains Mots clés différents."
+"plaît, essayez de nouveau avec des mots clés différents."
 
 #: content-none.php:28
 msgid ""
 "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
 "searching can help."
 msgstr ""
-"Il semble que nous ne pouvons pas trouver ce que vous recherchez. Peut-être "
-"la recherche peut aider."
+"Il semblerait que nous ne puissions pas trouver ce que vous recherchez. Une "
+"recherche pourrait peut-être aider."
 
 #: content-page.php:18 content-single.php:21 content.php:33 image.php:77
 msgid "Pages:"
-msgstr "Pages :"
+msgstr "Pages:"
 
 #: content-page.php:23 content-single.php:38 content.php:58 image.php:108
 #: inc/template-tags.php:72 inc/template-tags.php:91
 msgid "Edit"
-msgstr "Edit"
+msgstr "Editer"
 
 #: content-single.php:12 content.php:19
 msgid "All %s posts"
@@ -161,7 +161,7 @@ msgstr "% Commentaires"
 
 #: footer.php:20
 msgid "A Semantic Personal Publishing Platform"
-msgstr "Une personnelle sémantique plate-forme d'édition"
+msgstr "Une plate-forme personnelle d'édition sémantique"
 
 #: footer.php:20
 msgid "Proudly powered by %s"
@@ -169,7 +169,7 @@ msgstr "Fièrement propulsé par %s"
 
 #: footer.php:22
 msgid "Theme: %1$s by %2$s."
-msgstr "Thème : %1$ s %2$ s."
+msgstr "Thème: %1$s %2$s."
 
 #: functions.php:52
 msgid "Primary Menu"
@@ -181,15 +181,15 @@ msgstr "Menu de pied de page"
 
 #: functions.php:78
 msgid "Footer Sidebar 1"
-msgstr "Pied de page Encadré 1"
+msgstr "Zone de pied de page 1"
 
 #: functions.php:86
 msgid "Footer Sidebar 2"
-msgstr "Pied de page Encadré 2"
+msgstr "Zone de pied de page 2"
 
 #: functions.php:94
 msgid "Footer Sidebar 3"
-msgstr "Pied de page Sidebar 3"
+msgstr "Zone de pied de page 3"
 
 #. translators: If there are characters in your language that are not supported
 #. by Merriweather, translate this to 'off'. Do not translate into your own
@@ -197,7 +197,7 @@ msgstr "Pied de page Sidebar 3"
 #: functions.php:136
 msgctxt "Merriweather font: on or off"
 msgid "on"
-msgstr "sur"
+msgstr "on"
 
 #: header.php:47
 msgid "Facebook"
@@ -205,7 +205,7 @@ msgstr "Facebook"
 
 #: header.php:52
 msgid "Google+"
-msgstr "Google +"
+msgstr "Google+"
 
 #: header.php:57
 msgid "LinkedIn"
@@ -213,7 +213,7 @@ msgstr "LinkedIn"
 
 #: header.php:62
 msgid "Path"
-msgstr "Chemin d'accès"
+msgstr "Chemin"
 
 #: header.php:67
 msgid "Twitter"
@@ -277,8 +277,8 @@ msgid ""
 "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
 "\" title=\"Post a comment\">post a comment</a>."
 msgstr ""
-"Rétroliens sont fermés, mais vous pouvez < une class = « commentaire-lien » "
-"href = "
+"Les rétroliens sont fermés, mais vous pouvez <a class=\"comment-link\" href="
+"\"#respond\" title=\"Poster un commentaire\">poster un commentaire</a>."
 
 # respond« titre = « Poster un commentaire » > poster un commentaire</a>."
 #: image.php:106
@@ -309,20 +309,20 @@ msgstr "<span class=\"meta-nav\">&larr;</span> Plus anciens messages"
 
 #: inc/template-tags.php:48
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
-msgstr "Messages plus récents <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Messages récents <span class=\"meta-nav\">&rarr;</span>"
 
 #: inc/template-tags.php:72
 msgid "Pingback:"
-msgstr "Pingback :"
+msgstr "Pingback:"
 
 #: inc/template-tags.php:82
 msgid "%s <span class=\"says\">says:</span>"
-msgstr "%s <span class=\"says\">dit :</span>"
+msgstr "%s <span class=\"says\">dit:</span>"
 
 #: inc/template-tags.php:88
 msgctxt "1: date, 2: time"
 msgid "%1$s at %2$s"
-msgstr "%1$ s %2$ s"
+msgstr "%1$s à %2$s"
 
 #: inc/template-tags.php:95
 msgid "Your comment is awaiting moderation."
@@ -342,7 +342,7 @@ msgstr ""
 
 #: inc/template-tags.php:124 inc/template-tags.php:135
 msgid "View all posts by %s"
-msgstr "Afficher tous les messages de %s"
+msgstr "Afficher tous les articles de %s"
 
 #: inc/template-tags.php:129
 msgid ""
@@ -377,11 +377,11 @@ msgstr "Rechercher"
 
 #. Theme Name of the plugin/theme
 msgid "Syntax"
-msgstr "Syntaxe"
+msgstr "Syntax"
 
 #. Theme URI of the plugin/theme
 msgid "http://theme.wordpress.com/themes/syntax"
-msgstr "http://Theme.wordpress.com/themes/Syntax"
+msgstr "http://theme.wordpress.com/themes/syntax"
 
 #. Description of the plugin/theme
 msgid ""
@@ -390,11 +390,11 @@ msgid ""
 "looks beautiful on all screen sizes, it's perfect for writers or bloggers "
 "who want a clean, sophisticated look and feel for their site."
 msgstr ""
-"La syntaxe est un thème conçu avec écriture--et la lecture--à l'esprit. Avec "
-"grand, type facile à lire, un menu de navigation fixe et un réactif de "
-"conception qui semble beau toutes les tailles d'écran, il est parfait pour "
-"les écrivains ou les blogueurs qui veulent un look and feel et élégant pour "
-"leur site."
+"Syntax est un thème conçu pour privilégier l'écriture--et la lecture--. Avec "
+"une grande police de caractères facile à lire, un menu de navigation fixe et "
+"un design réactif magnifique sur toutes les tailles d'écran, il est parfait "
+"pour les écrivains ou les blogueurs qui veulent un style simple et élégant "
+"pour leur site."
 
 #. Author of the plugin/theme
 msgid "Automattic"
@@ -402,4 +402,4 @@ msgstr "Automattic"
 
 #. Author URI of the plugin/theme
 msgid "http://automattic.com"
-msgstr "http://Automattic.com"
+msgstr "http://automattic.com"
