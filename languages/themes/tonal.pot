@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tonal\n"
+"POT-Creation-Date: 2014-03-23 23:04+0100\n"
+"PO-Revision-Date: 2014-03-23 23:05+0100\n"
+"Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: C:\\Users\\chris\\Downloads\\tonal-wpcom-1-0\\tonal-"
+"wpcom\n"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/404.php:15
+#, fuzzy
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/404.php:19
+#, fuzzy
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/404.php:27
+#, fuzzy
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/404.php:44
+#, fuzzy, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:27
+#, fuzzy, php-format
+msgid "Author: %s"
+msgstr "Version %s"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:30
+#, fuzzy, php-format
+msgid "Day: %s"
+msgstr "Version %s"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:33
+#, fuzzy, php-format
+msgid "Month: %s"
+msgstr "Version %s"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:36
+#, fuzzy, php-format
+msgid "Year: %s"
+msgstr "Version %s"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:39
+#, fuzzy
+msgid "Asides"
+msgstr "Asides"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:42
+#, fuzzy
+msgid "Galleries"
+msgstr "Galleries"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:45
+#, fuzzy
+msgid "Images"
+msgstr "Images"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:48
+#, fuzzy
+msgid "Videos"
+msgstr "Videos"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:51
+#, fuzzy
+msgid "Quotes"
+msgstr "Display &Quotes"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:54
+#, fuzzy
+msgid "Links"
+msgstr "Links"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:57
+#, fuzzy
+msgid "Statuses"
+msgstr "Statuses"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:60
+#, fuzzy
+msgid "Audios"
+msgstr "Audios"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:63
+#, fuzzy
+msgid "Chats"
+msgstr "Chats"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:66
+#, fuzzy
+msgid "Archives"
+msgstr "Archives"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:37
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:55
+#, fuzzy
+msgid "Comment navigation"
+msgstr "Comment:"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:38
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:56
+#, fuzzy
+msgid "&larr; Older Comments"
+msgstr "Find in comments"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:39
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:57
+#, fuzzy
+msgid "Newer Comments &rarr;"
+msgstr "Find in comments"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:67
+#, fuzzy
+msgid "Comments are closed."
+msgstr "Find in comments"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-none.php:13
+#, fuzzy
+msgid "Nothing Found"
+msgstr "No files found in: "
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-none.php:19
+#, fuzzy, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-none.php:23
+#, fuzzy
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-none.php:28
+#, fuzzy
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-page.php:18
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:42
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:47
+#, fuzzy
+msgid "Pages:"
+msgstr "Pages:"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-page.php:24
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:84
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:84
+#, fuzzy
+msgid "Edit"
+msgstr "&Edit"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:12
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:12
+#, fuzzy, php-format
+msgid "All %s posts"
+msgstr "All %s posts"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:26
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:26
+#, fuzzy, php-format
+msgid "Permalink to %s"
+msgstr "Version %s"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:53
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:56
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:61
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:71
+#, fuzzy
+msgid ", "
+msgstr ", "
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:61
+#, fuzzy, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:63
+#, fuzzy, php-format
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:69
+#, fuzzy, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:71
+#, fuzzy, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:44
+#, fuzzy
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:65
+#, fuzzy, php-format
+msgid "Posted in %1$s"
+msgstr "Version %s"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:75
+#, fuzzy, php-format
+msgid "Tagged %1$s"
+msgstr "Version %s"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:81
+#, fuzzy
+msgid "Leave a comment"
+msgstr "Comment:"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:81
+#, fuzzy
+msgid "1 Comment"
+msgstr "Comment:"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:81
+#, fuzzy
+msgid "% Comments"
+msgstr "Find in comments"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/footer.php:17
+#, fuzzy, php-format
+msgid "Proudly powered by %s"
+msgstr "Version %s"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/footer.php:19
+#, fuzzy, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/functions.php:43
+#, fuzzy
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/functions.php:66
+#, fuzzy
+msgid "Sidebar One"
+msgstr "Sidebar One"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/functions.php:74
+#, fuzzy
+msgid "Sidebar Two"
+msgstr "Sidebar Two"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/functions.php:82
+#, fuzzy
+msgid "Sidebar Three"
+msgstr "Sidebar Three"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/functions.php:105
+msgctxt "Oxygen serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/extras.php:62
+#, fuzzy, php-format
+msgid "Page %s"
+msgstr "Version %s"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:23
+#, fuzzy
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:27
+#, fuzzy
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:31
+#, fuzzy
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:56
+#, fuzzy
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:59
+#, fuzzy
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:60
+#, fuzzy
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:85
+#, fuzzy, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/updater.php:152
+#, fuzzy, php-format
+msgid ""
+"Thanks for installing %1$s from WordPress.com!<br/>To keep this theme up-to-"
+"date on your Multisite network, please <a href=\"%2$s\">install the "
+"WordPress.com Theme Updates plugin</a> and Network Activate it."
+msgstr ""
+"Thanks for installing %1$s from WordPress.com!<br/>To keep this theme up-to-"
+"date on your Multisite network, please <a href=\"%2$s\">install the "
+"WordPress.com Theme Updates plugin</a> and Network Activate it."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/updater.php:156
+#, fuzzy
+msgid "Don&lsquo;t show me this."
+msgstr "Don&lsquo;t show me this."
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/search.php:16
+#, fuzzy, php-format
+msgid "Search Results for: %s"
+msgstr "Validation results"
+
+#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/sidebar.php:9
+#, fuzzy
+msgid "Skip to content"
+msgstr "Skip to content"

@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-02-10 21:39+0100\n"
+"PO-Revision-Date: 2014-03-24 02:28+0100\n"
 "Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -34,7 +34,7 @@ msgstr "Catégories les plus utilisés"
 #. translators: %1$s: smiley
 #: 404.php:46
 msgid "Try looking in the monthly archives. %1$s"
-msgstr "Essayez de rechercher dans les archives mensuelles. %1$ s"
+msgstr "Essayez de rechercher dans les archives mensuelles. %1$s"
 
 #: archive.php:32
 msgid "Author: %s"
@@ -54,7 +54,7 @@ msgstr "Archives annuelles : %s"
 
 #: archive.php:45
 msgid "Asides"
-msgstr "Apartés"
+msgstr "En passant"
 
 #: archive.php:48
 msgid "Images"
@@ -80,8 +80,8 @@ msgstr "Archives"
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] "Une pensée sur &ldquo;%2$s&rdquo;"
-msgstr[1] "%1$s pensées sur &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
 
 #: comments.php:51
 msgid "Comment navigation"
@@ -101,7 +101,7 @@ msgstr "Les commentaires sont fermés."
 
 #: content-none.php:12
 msgid "Nothing Found"
-msgstr "Rien trouvé"
+msgstr "Rien n&rsquo;a été trouvé"
 
 #: content-none.php:18
 msgid ""
@@ -133,7 +133,7 @@ msgstr "Lire"
 #: content-preview.php:17 content-single.php:57 content.php:29 image.php:79
 #: inc/template-tags.php:80 inc/template-tags.php:99 page.php:37
 msgid "Edit"
-msgstr "Edit"
+msgstr "Editer"
 
 #: content-single.php:20 content.php:19 image.php:45 page.php:32
 msgid "Pages:"
@@ -157,7 +157,7 @@ msgid ""
 "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
 "\">permalink</a>."
 msgstr ""
-"Signet le <a href=\"%3$s\" title=\"Permalink %4$s\" rel=\"bookmark"
+"Marquer le <a href=\"%3$s\" title=\"Permalink %4$s\" rel=\"bookmark"
 "\">permalink</a>."
 
 #: content-single.php:42
@@ -182,7 +182,7 @@ msgstr "Continuer la lecture <span class=\"meta-nav\">&rarr;</span>"
 
 #: footer.php:12
 msgid "A Semantic Personal Publishing Platform"
-msgstr "Une personnelle sémantique plate-forme d'édition"
+msgstr "Plate-forme de publication personnelle sémantique"
 
 #: footer.php:12
 msgid "Proudly powered by %s."
@@ -190,7 +190,7 @@ msgstr "Fièrement propulsé par %s."
 
 #: footer.php:13
 msgid "Theme: %1$s by %2$s."
-msgstr "Thème : %1$ s %2$ s."
+msgstr "Thème : %1$s par %2$s."
 
 #: functions.php:59
 msgid "Primary Menu"
@@ -206,7 +206,7 @@ msgstr "Barre latérale"
 #: functions.php:97
 msgctxt "Lato: on or off"
 msgid "on"
-msgstr "sur"
+msgstr "on"
 
 #: image.php:24
 msgid "<span class=\"meta-nav\">&larr;</span> Previous"
@@ -303,7 +303,7 @@ msgstr "%s <span class=\"says\">dit :</span>"
 #: inc/template-tags.php:96
 msgctxt "1: date, 2: time"
 msgid "%1$s at %2$s"
-msgstr "%1$ s %2$ s"
+msgstr "%1$s à %2$s"
 
 #: inc/template-tags.php:103
 msgid "Your comment is awaiting moderation."
@@ -387,7 +387,7 @@ msgstr "Rechercher"
 
 #: sidebar.php:24
 msgid "Meta"
-msgstr "Meta"
+msgstr "Méta"
 
 #. Theme Name of the plugin/theme
 msgid "Bushwick"

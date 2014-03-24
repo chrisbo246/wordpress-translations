@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-02-10 21:39+0100\n"
+"PO-Revision-Date: 2014-03-24 02:33+0100\n"
 "Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -34,7 +34,7 @@ msgstr "Catégories les plus utilisés"
 #. translators: %1$s: smiley
 #: 404.php:45
 msgid "Try looking in the monthly archives. %1$s"
-msgstr "Essayez de rechercher dans les archives mensuelles. %1$ s"
+msgstr "Essayez de rechercher dans les archives mensuelles. %1$s"
 
 #: archive.php:31
 msgid "Author: %s"
@@ -54,7 +54,7 @@ msgstr "Année : %s"
 
 #: archive.php:48
 msgid "Asides"
-msgstr "Apartés"
+msgstr "En passant"
 
 #: archive.php:51
 msgid "Images"
@@ -96,8 +96,8 @@ msgstr "Archives"
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] "Une pensée sur &ldquo;%2$s&rdquo;"
-msgstr[1] "%1$s pensées sur &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
 
 #: comments.php:36 comments.php:59
 msgid "Comment navigation"
@@ -186,7 +186,7 @@ msgstr "Fièrement propulsé par %s"
 
 #: footer.php:75
 msgid "Theme: %1$s by %2$s."
-msgstr "Thème : %1$ s %2$ s."
+msgstr "Thème : %1$s par %2$s."
 
 #: functions.php:71
 msgid "Primary Menu"
@@ -202,7 +202,7 @@ msgstr "Barre latérale"
 #: functions.php:121
 msgctxt "Montserrat font: on or off"
 msgid "on"
-msgstr "sur"
+msgstr "on"
 
 #: header.php:24
 msgid "Open sidebar"
@@ -268,7 +268,7 @@ msgstr "Suivant <span class=\"genericon genericon-rightarrow\"></span>"
 
 #: inc/customizer.php:20
 msgid "Theme Options"
-msgstr "Options de thème"
+msgstr "Options du thème"
 
 #: inc/customizer.php:30
 msgid "Full Page Background Image"
@@ -329,7 +329,7 @@ msgstr "<span class=\"genericon genericon-leftarrow\"></span> anciens messages"
 #: inc/template-tags.php:48
 msgid "Newer posts  <span class=\"genericon genericon-rightarrow\"></span>"
 msgstr ""
-"Plus récents messages <span class=\"genericon genericon-rightarrow\"></span>"
+"Nouveaux messages <span class=\"genericon genericon-rightarrow\"></span>"
 
 #: inc/template-tags.php:71
 msgid "Pingback:"
@@ -342,7 +342,7 @@ msgstr "Votre commentaire est en attente de modération."
 #: inc/template-tags.php:99
 msgctxt "1: date, 2: time"
 msgid "%1$s at %2$s"
-msgstr "%1$ s %2$ s"
+msgstr "%1$s à %2$s"
 
 #: inc/template-tags.php:231
 msgid "Author"
@@ -350,7 +350,7 @@ msgstr "Auteur"
 
 #: inc/template-tags.php:232
 msgid "View all posts by %s"
-msgstr "Afficher tous les messages de %s"
+msgstr "Afficher tous les articles par %s"
 
 #. translators: used between list items, there is a space after the comma
 #: inc/template-tags.php:247
@@ -420,7 +420,7 @@ msgstr "Writr"
 
 #. Theme URI of the plugin/theme
 msgid "http://theme.wordpress.com/themes/writr/"
-msgstr "http://Theme.wordpress.com/themes/writr/"
+msgstr "http://theme.wordpress.com/themes/writr/"
 
 #. Description of the plugin/theme
 msgid ""
@@ -441,4 +441,4 @@ msgstr "Automattic"
 
 #. Author URI of the plugin/theme
 msgid "http://theme.wordpress.com/"
-msgstr "http://Theme.wordpress.com/"
+msgstr "http://theme.wordpress.com/"

@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Motif\n"
+"POT-Creation-Date: 2014-03-24 01:37+0100\n"
+"PO-Revision-Date: 2014-03-24 02:22+0100\n"
+"Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: C:\\Users\\chris\\Downloads\\motif-wpcom-1-0-1\\motif-"
+"wpcom\n"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Cette page est introuvable."
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il ressemble que rien n'ai été trouvé à cet endroit. Essayez peut-être "
+"l&rsquo;un des liens ci-dessous ou une recherche?"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive-jetpack-testimonial.php:22
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive.php:29
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive.php:37
+#, php-format
+msgid "Day: %s"
+msgstr "Jour: %s"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive.php:40
+#, php-format
+msgid "Month: %s"
+msgstr "Mois: %s"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive.php:43
+#, php-format
+msgid "Year: %s"
+msgstr "Année: %s"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive.php:46
+msgid "Asides"
+msgstr "En passant"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive.php:49
+msgid "Images"
+msgstr "Images"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive.php:52
+msgid "Videos"
+msgstr "Vidéos"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive.php:55
+msgid "Quotes"
+msgstr "Citations"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive.php:58
+msgid "Links"
+msgstr "Liens"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/archive.php:61
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/sidebar.php:17
+msgid "Archives"
+msgstr "Archives"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/comments.php:17
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/comments.php:24
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/comments.php:36
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/comments.php:25
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaire plus ancien"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/comments.php:26
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/comments.php:48
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-aside.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-gallery.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-image.php:22
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-link.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-quote.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-video.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content.php:21
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-aside.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-gallery.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-image.php:22
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-link.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-quote.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-video.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content.php:21
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-aside.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-gallery.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-image.php:22
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-link.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-quote.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-video.php:20
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content.php:21
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-aside.php:23
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-aside.php:52
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-gallery.php:23
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-gallery.php:58
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-grid.php:26
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-image.php:25
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-image.php:54
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-link.php:23
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-link.php:52
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-page.php:35
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-quote.php:23
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-quote.php:52
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-testimonial.php:27
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-video.php:23
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-video.php:52
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content.php:24
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content.php:66
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/image.php:34
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/image.php:78
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/page-templates/front-page.php:28
+msgid "Edit"
+msgstr "Modifier"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-aside.php:29
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-gallery.php:35
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-image.php:31
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-link.php:29
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-quote.php:29
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-video.php:29
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content.php:42
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-aside.php:32
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-gallery.php:38
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-image.php:34
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-link.php:32
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-page.php:30
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-quote.php:32
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-video.php:32
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content.php:45
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/image.php:60
+msgid "Pages:"
+msgstr "Pages:"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-aside.php:41
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-aside.php:47
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-gallery.php:47
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-gallery.php:53
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-image.php:43
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-image.php:49
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-link.php:41
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-link.php:47
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-quote.php:41
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-quote.php:47
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-video.php:41
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-video.php:47
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content.php:55
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content.php:61
+msgid ", "
+msgstr ", "
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/content-grid.php:12
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/template-tags.php:158
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalien vers %s"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/footer.php:25
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Plate-forme de publication personnelle sémantique"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/footer.php:25
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/footer.php:27
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème: %1$s par %2$s."
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/functions.php:68
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/functions.php:69
+msgid "Footer Menu"
+msgstr "Menu de pied de page"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Droid Serif, translate this to 'off'. Do not translate into your own language.
+#.
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/functions.php:115
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Droid Sans, translate this to 'off'. Do not translate into your own language.
+#.
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/functions.php:120
+msgctxt "Droid Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/functions.php:146
+msgid "Main Sidebar"
+msgstr "Barre latérale principale"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/functions.php:154
+msgid "First Footer Sidebar"
+msgstr "Premier bloc de pied de page"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/functions.php:162
+msgid "Second Footer Sidebar"
+msgstr "Second bloc de pied de page"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/functions.php:170
+msgid "Third Footer Sidebar"
+msgstr "Troisième bloc de pied de page"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/functions.php:178
+msgid "First Front Page Sidebar"
+msgstr "Premier bloc de page d&rsquo;accueil"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/functions.php:186
+msgid "Second Front Page Sidebar"
+msgstr "Second bloc de page d&nsquo;accueil"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/header.php:43
+msgid "Menu"
+msgstr "Menu"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/header.php:44
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Publié <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
+"\">%2$s</time></span> à <a href=\"%3$s\" title=\"Lien vers l&rsquo;image "
+"originale\">%4$s &times; %5$s</a> dans <a href=\"%6$s\" title=\"Retourner à "
+"%7$s\" rel=\"gallery\">%8$s</a>"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Précédent"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Suivant <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/image.php:69
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Poster un commentaire"
+"\">Postez un commentaire</a> ou laissez un trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"URL de trackback pour votre article\" rel="
+"\"trackback\">URL de trackback</a>."
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/image.php:71
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Les commentaires sont fermés, mais vous pouvez laisser un trackback: <a "
+"class=\"trackback-link\" href=\"%s\" title=\"URL de trackback pour votre "
+"article\" rel=\"trackback\">URL de trackback</a>."
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/image.php:73
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Les trackbacks sont fermés, mais vous pouvez <a class=\"comment-link\" href="
+"\"#respond\" title=\"Poster un commentaire\">poster un commentaire</a>."
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/image.php:75
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Les commentaires et trackbacks sont actuellement fermés."
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/extras.php:67
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/template-tags.php:32
+msgid "Post navigation"
+msgstr "Navigation de l&rsquo;article"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/template-tags.php:36
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/template-tags.php:37
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/template-tags.php:42
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articles plus anciens"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/template-tags.php:46
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/template-tags.php:115
+msgid "Featured"
+msgstr "Mis en avant"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/template-tags.php:133
+#, php-format
+msgid "View all posts by %s"
+msgstr "Afficher tous les articles par %s"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/updater.php:152
+#, php-format
+msgid ""
+"Thanks for installing %1$s from WordPress.com!<br/>To keep this theme up-to-"
+"date on your Multisite network, please <a href=\"%2$s\">install the "
+"WordPress.com Theme Updates plugin</a> and Network Activate it."
+msgstr ""
+"Merci d&rsquo;avoir installé %1$s pour WordPress.com!<br/>Pour maintenir ce "
+"thème à jour sur votre réseau multisite, <a href=\"%2$s\">installez le "
+"plugin WordPress.com Theme Updates</a> et activez le sur le réseau."
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/inc/updater.php:156
+msgid "Don&lsquo;t show me this."
+msgstr "Ne plus me montrer cela. "
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/no-results.php:11
+msgid "Nothing Found"
+msgstr "Rien n&rsquo;a été trouvé"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/no-results.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</"
+"a>&nbsp;!"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/no-results.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec "
+"des mots différents."
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/no-results.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. "
+"Essayez en lançant une recherche."
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour %s"
+
+#: C:\Users\chris\Downloads\motif-wpcom-1-0-1\motif-wpcom/sidebar.php:24
+msgid "Meta"
+msgstr "Meta"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Les plus utilisées"
+
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "Essayez de regarder dans les archives mensuelles. %1$s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "F Y"
+
+#~ msgctxt "yearly archives date format"
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Galleries"
+#~ msgstr "Galeries"
+
+#~ msgid "Statuses"
+#~ msgstr "Statuts"
+
+#~ msgid "Audios"
+#~ msgstr "Audios"
+
+#~ msgid "Chats"
+#~ msgstr "Conversations"
+
+#~ msgid "All %s posts"
+#~ msgstr "Afficher tous les articles par %s"
+
+#~ msgid ""
+#~ "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+#~ "\">permalink</a>."
+#~ msgstr ""
+#~ "Cette entrée a été étiqueté %2$s. Marquer le permalien <a href=\"%3$s\" "
+#~ "rel=\"bookmark\">permalien</a>."
+
+#~ msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+#~ msgstr "Marquer le <a href=\"%3$s\" rel=\"bookmark\">permalien</a>."
+
+#~ msgid ""
+#~ "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s"
+#~ "\" rel=\"bookmark\">permalink</a>."
+#~ msgstr ""
+#~ "Cette entrée a été publiée dans %1$s et étiqueté %2$s. Marquer le <a href="
+#~ "\"%3$s\" rel=\"bookmark\">permalien</a>."
+
+#~ msgid ""
+#~ "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel="
+#~ "\"bookmark\">permalink</a>."
+#~ msgstr ""
+#~ "Cette entrée a été publiée dans %1$s. Marquer le <a href=\"%3$s\" rel="
+#~ "\"bookmark\">permalien</a>."
+
+#~ msgid "Posted in %1$s"
+#~ msgstr "Posté dans %1$s"
+
+#~ msgid "Tagged %1$s"
+#~ msgstr "Etiqueté %1$s"
+
+#~ msgid "Sidebar Two"
+#~ msgstr "Barre latérale 2"
+
+#~ msgid "Sidebar Three"
+#~ msgstr "Trois colonnes"
+
+#~ msgid "Posts navigation"
+#~ msgstr "Navigation des articles"
+
+#~ msgid ""
+#~ "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+#~ "%2$s</span>"
+#~ msgstr ""
+#~ "<span class=\"posted-on\">Posté le %1$s</span><span class=\"byline\"> par "
+#~ "%2$s</span>"

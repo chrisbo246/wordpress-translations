@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-02-10 21:39+0100\n"
+"PO-Revision-Date: 2014-03-24 02:14+0100\n"
 "Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -38,7 +38,7 @@ msgstr "Calendrier"
 #. translators: %1$s: smiley
 #: 404.php:37
 msgid "Try looking in the monthly archives. %1$s"
-msgstr "Essayez de rechercher dans les archives mensuelles. %1$ s"
+msgstr "Essayez de rechercher dans les archives mensuelles. %1$s"
 
 #: archive.php:22
 msgid "Category Archives: %s"
@@ -66,7 +66,7 @@ msgstr "Archives annuelles : %s"
 
 #: archive.php:49
 msgid "Asides"
-msgstr "Apartés"
+msgstr "En passant"
 
 #: archive.php:52
 msgid "Images"
@@ -92,8 +92,8 @@ msgstr "Archives"
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] "Une pensée sur &ldquo;%2$s&rdquo;"
-msgstr[1] "%1$s pensées sur &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
 
 #: comments.php:35 comments.php:55
 msgid "Comment navigation"
@@ -179,7 +179,7 @@ msgstr "Fièrement propulsé par %s"
 
 #: footer.php:18
 msgid "Theme: %1$s by %2$s."
-msgstr "Thème : %1$ s %2$ s."
+msgstr "Thème : %1$s %2$s."
 
 #: functions.php:50
 msgid "Primary Menu"
@@ -207,7 +207,7 @@ msgstr "Zone de Widget top quatre"
 #: functions.php:122
 msgctxt "Lato font: on or off"
 msgid "on"
-msgstr "sur"
+msgstr "on"
 
 #. translators: If there are characters in your language that are not supported
 #. by Playfair Display, translate this to 'off'. Do not translate into your
@@ -215,7 +215,7 @@ msgstr "sur"
 #: functions.php:131
 msgctxt "Playfair Display font: on or off"
 msgid "on"
-msgstr "sur"
+msgstr "on"
 
 #. translators: To add an additional Playfair Display character subset specific
 #. to your language, translate this to 'cyrillic'. Do not translate into your
@@ -223,7 +223,7 @@ msgstr "sur"
 #: functions.php:135
 msgctxt "Playfair Display font: add new subset (cyrillic)"
 msgid "no-subset"
-msgstr "non-sous-ensemble"
+msgstr "pas de sous-ensemble"
 
 #: header.php:71 header.php:72
 msgid "Email"
@@ -319,8 +319,8 @@ msgid ""
 "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
 "\" title=\"Post a comment\">post a comment</a>."
 msgstr ""
-"Rétroliens sont fermés, mais vous pouvez < une class = « commentaire-lien » "
-"href = "
+"Les trackbacks sont fermés, mais vous pouvez <a class=\"comment-link\" href="
+"\"#respond\" title=\"Poster un commentaire\">poster un commentaire</a>."
 
 # respond« titre = « Poster un commentaire » > poster un commentaire</a>."
 #: image.php:44
@@ -458,7 +458,7 @@ msgstr "Votre commentaire est en attente de modération."
 #: inc/template-tags.php:102
 msgctxt "1: date, 2: time"
 msgid "%1$s at %2$s"
-msgstr "%1$ s %2$ s"
+msgstr "%1$s à %2$s"
 
 #: inc/template-tags.php:173
 msgid ""
@@ -486,7 +486,7 @@ msgstr "Afficher tous les messages de %s"
 
 #: no-results.php:14
 msgid "Nothing Found"
-msgstr "Rien trouvé"
+msgstr "Rien n&rsquo;a été trouvé"
 
 #: no-results.php:20
 msgid ""

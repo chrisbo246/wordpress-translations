@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Untitled v1.0.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-10 21:03+0100\n"
+"PO-Revision-Date: 2014-03-24 02:16+0100\n"
 "Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 # @ untitled
 #: 404.php:15
 msgid "Oops! That page can&rsquo;t be found."
-msgstr "Oups ! Cette page est introuvable."
+msgstr "Oups! Cette page est introuvable."
 
 # @ untitled
 #: 404.php:19
@@ -116,8 +116,8 @@ msgstr "Archives"
 #, php-format
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] "Une pensée sur &ldquo;%2$s&rdquo;"
-msgstr[1] "%1$s pensées sur &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion au sujet de &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions au sujet de &ldquo;%2$s&rdquo;"
 
 # @ untitled
 #: comments.php:50
@@ -255,7 +255,7 @@ msgstr "Barre latérale"
 #: functions.php:107
 msgctxt "Web font: on or off"
 msgid "on"
-msgstr "sur"
+msgstr "on"
 
 # @ untitled
 #: header.php:42
@@ -278,8 +278,8 @@ msgid ""
 msgstr ""
 "Publié <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
 "\"> %2$s</time></span> à <a href=\"%3$s\" title=\"Lien vers l'image pleine "
-"taille\"> %4$ s × %5$ s</a> en <a href=\"%6$s\" title=\"Retourner à %7$s\" "
-"rel=\"gallery\"> %8$ s</a>"
+"taille\"> %4$s × %5$s</a> en <a href=\"%6$s\" title=\"Retourner à %7$s\" rel="
+"\"gallery\">%8$s</a>"
 
 # @ untitled
 #: image.php:38
