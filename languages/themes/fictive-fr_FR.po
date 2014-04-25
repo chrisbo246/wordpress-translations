@@ -1,0 +1,447 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fictive\n"
+"POT-Creation-Date: 2014-04-25 18:26+0100\n"
+"PO-Revision-Date: 2014-04-25 18:30+0100\n"
+"Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: C:\\Users\\chris\\Downloads\\fictive-"
+"wpcom-1-0\\fictive-wpcom\n"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups! Cette page est introuvable."
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il ressemble que rien n'ai été trouvé à cet endroit. Essayez peut-être "
+"l&rsquo;un des liens ci-dessous ou une recherche?"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr "Jour: %s"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr "Mois: %s"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:36
+#, fuzzy, php-format
+msgid "Year: %s"
+msgstr "Année: %s"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:39
+msgid "Asides"
+msgstr "En passant"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:48
+msgid "Videos"
+msgstr "Vidéos"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:51
+msgid "Quotes"
+msgstr "Citations"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:54
+msgid "Links"
+msgstr "Liens"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:57
+msgid "Statuses"
+msgstr "Statuts"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:63
+msgid "Chats"
+msgstr "Conversations"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/archive.php:66
+msgid "Archives"
+msgstr "Archives"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/comments.php:35
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/comments.php:49
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/comments.php:36
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/comments.php:50
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaire plus ancien"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/comments.php:37
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/comments.php:61
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content-none.php:13
+msgid "Nothing Found"
+msgstr "Rien n&rsquo;a été trouvé"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</"
+"a>&nbsp;!"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec "
+"des mots différents."
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. "
+"Essayez en lançant une recherche."
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content-page.php:24
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content-single.php:35
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content.php:48
+msgid "Pages:"
+msgstr "Pages:"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content-page.php:30
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content-single.php:27
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content.php:35
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:110
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:147
+msgid "Edit"
+msgstr "Modifier"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content-single.php:17
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content.php:18
+#, php-format
+msgid "All %s posts"
+msgstr "Tous les articles par %s"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content.php:32
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content.php:32
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content.php:32
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/content.php:45
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/footer.php:15
+#, fuzzy
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/footer.php:15
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/footer.php:17
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème: %1$s par %2$s."
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/functions.php:44
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/functions.php:45
+#, fuzzy
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/functions.php:72
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/functions.php:153
+#, fuzzy
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/functions.php:162
+#, fuzzy
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/header.php:57
+#, fuzzy
+msgid "Menu"
+msgstr "Menu"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/header.php:60
+#, fuzzy
+msgid "Widgets"
+msgstr "Widgets"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/header.php:62
+#, fuzzy
+msgid "Search"
+msgstr "Recherche"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/header.php:66
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/customizer.php:20
+#, fuzzy
+msgid "Theme"
+msgstr "Thème"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/customizer.php:30
+msgid "Gravatar Email"
+msgstr "Email Gravatar"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/customizer.php:42
+msgid "Sidebar Position"
+msgstr "Position de la barre latérale"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/customizer.php:46
+#, fuzzy
+msgid "Fixed"
+msgstr "Mise en page fixe"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/customizer.php:47
+msgid "Scroll"
+msgstr "Faire défiler"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:27
+#, fuzzy
+msgctxt "Older posts"
+msgid "<span class=\"meta-nav screen-reader-text\">&larr;</span>"
+msgstr "<span class=\"meta-nav screen-reader-text\">&larr;</span>"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:31
+#, fuzzy
+msgctxt "Newer posts"
+msgid "<span class=\"meta-nav screen-reader-text\">&rarr;</span>"
+msgstr "<span class=\"meta-nav screen-reader-text\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigation de l&rsquo;article"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:59
+#, fuzzy
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav screen-reader-text\">&larr;</span>"
+msgstr "<span class=\"meta-nav screen-reader-text\">&larr;</span>"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:60
+#, fuzzy
+msgctxt "Next post link"
+msgid "<span class=\"meta-nav screen-reader-text\">&rarr;</span>"
+msgstr "<span class=\"meta-nav screen-reader-text\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:74
+#, fuzzy, php-format
+msgid ""
+"<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\">Featured</a></span><span class=\"byline\"><span class=\"author vcard\"><a "
+"class=\"url fn n\" href=\"%3$s\" title=\"%4$s\" rel=\"author\">%5$s</a></"
+"span></span>"
+msgstr ""
+"<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\">En vedette</a></span><span class=\"byline\"><span class=\"author vcard"
+"\"><a class=\"url fn n\" href=\"%3$s\" title=\"%4$s\" rel=\"author\">%5$s</"
+"a></span></span>"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:78
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:89
+#, fuzzy, php-format
+msgid "View all posts by %s"
+msgstr "Afficher tous les articles par %s"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:83
+#, fuzzy, php-format
+msgid ""
+"<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span><span "
+"class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span><span "
+"class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:110
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:120
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dit:</span>"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:124
+#, fuzzy
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/template-tags.php:144
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/updater.php:152
+#, php-format
+msgid ""
+"Thanks for installing %1$s from WordPress.com!<br/>To keep this theme up-to-"
+"date on your Multisite network, please <a href=\"%2$s\">install the "
+"WordPress.com Theme Updates plugin</a> and Network Activate it."
+msgstr ""
+"Merci d&rsquo;avoir installé %1$s pour WordPress.com!<br/>Pour maintenir ce "
+"thème à jour sur votre réseau multisite, <a href=\"%2$s\">installez le "
+"plugin WordPress.com Theme Updates</a> et activez le sur le réseau."
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/inc/updater.php:156
+msgid "Don&lsquo;t show me this."
+msgstr "Ne plus me montrer cela. "
+
+#: C:\Users\chris\Downloads\fictive-wpcom-1-0\fictive-wpcom/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour %s"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Les plus utilisées"
+
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "Essayez de regarder dans les archives mensuelles. %1$s"
+
+#~ msgid "Permalink to %s"
+#~ msgstr "Permalien vers %s"
+
+#~ msgid ", "
+#~ msgstr ", "
+
+#~ msgid ""
+#~ "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+#~ "\">permalink</a>."
+#~ msgstr ""
+#~ "Cette entrée a été étiqueté %2$s. Marquer le permalien <a href=\"%3$s\" "
+#~ "rel=\"bookmark\">permalien</a>."
+
+#~ msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+#~ msgstr "Marquer le <a href=\"%3$s\" rel=\"bookmark\">permalien</a>."
+
+#~ msgid ""
+#~ "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s"
+#~ "\" rel=\"bookmark\">permalink</a>."
+#~ msgstr ""
+#~ "Cette entrée a été publiée dans %1$s et étiqueté %2$s. Marquer le <a href="
+#~ "\"%3$s\" rel=\"bookmark\">permalien</a>."
+
+#~ msgid ""
+#~ "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel="
+#~ "\"bookmark\">permalink</a>."
+#~ msgstr ""
+#~ "Cette entrée a été publiée dans %1$s. Marquer le <a href=\"%3$s\" rel="
+#~ "\"bookmark\">permalien</a>."
+
+#~ msgid "Posted in %1$s"
+#~ msgstr "Posté dans %1$s"
+
+#~ msgid "Tagged %1$s"
+#~ msgstr "Etiqueté %1$s"
+
+#~ msgid "Sidebar Two"
+#~ msgstr "Barre latérale 2"
+
+#~ msgid "Sidebar Three"
+#~ msgstr "Trois colonnes"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Articles plus anciens"
+
+#~ msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Articles plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid ""
+#~ "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+#~ "%2$s</span>"
+#~ msgstr ""
+#~ "<span class=\"posted-on\">Posté le %1$s</span><span class=\"byline\"> par "
+#~ "%2$s</span>"
