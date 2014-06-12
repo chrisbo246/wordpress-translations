@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GovPress\n"
+"POT-Creation-Date: 2014-05-28 16:25+0100\n"
+"PO-Revision-Date: 2014-05-28 23:39+0100\n"
+"Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: C:\\Users\\chris\\Downloads\\govpress\n"
+
+#: C:\Users\chris\Downloads\govpress/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups! Cette page est introuvable."
+
+#: C:\Users\chris\Downloads\govpress/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il ressemble que rien n'ai été trouvé à cet endroit. Essayez peut-être "
+"l&rsquo;un des liens ci-dessous ou une recherche?"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr "Jour: %s"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr "Mois: %s"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr "Année: %s"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:39
+msgid "Asides"
+msgstr "En passant"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:48
+msgid "Videos"
+msgstr "Vidéos"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:51
+msgid "Quotes"
+msgstr "Citations"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:54
+msgid "Links"
+msgstr "Liens"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:57
+msgid "Statuses"
+msgstr "Statuts"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:63
+msgid "Chats"
+msgstr "Conversations"
+
+#: C:\Users\chris\Downloads\govpress/archive.php:66
+#: C:\Users\chris\Downloads\govpress/sidebar.php:18
+msgid "Archives"
+msgstr "Archives"
+
+#: C:\Users\chris\Downloads\govpress/comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
+
+#: C:\Users\chris\Downloads\govpress/comments.php:37
+#: C:\Users\chris\Downloads\govpress/comments.php:56
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#: C:\Users\chris\Downloads\govpress/comments.php:38
+#: C:\Users\chris\Downloads\govpress/comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaire plus ancien"
+
+#: C:\Users\chris\Downloads\govpress/comments.php:39
+#: C:\Users\chris\Downloads\govpress/comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: C:\Users\chris\Downloads\govpress/comments.php:68
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: C:\Users\chris\Downloads\govpress/content-none.php:13
+msgid "Nothing Found"
+msgstr "Rien n&rsquo;a été trouvé"
+
+#: C:\Users\chris\Downloads\govpress/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</"
+"a>&nbsp;!"
+
+#: C:\Users\chris\Downloads\govpress/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec "
+"des mots différents."
+
+#: C:\Users\chris\Downloads\govpress/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. "
+"Essayez en lançant une recherche."
+
+#: C:\Users\chris\Downloads\govpress/content-page.php:18
+#: C:\Users\chris\Downloads\govpress/content-single.php:20
+#: C:\Users\chris\Downloads\govpress/content.php:27
+#: C:\Users\chris\Downloads\govpress/templates/home-page.php:26
+msgid "Pages:"
+msgstr "Pages:"
+
+#: C:\Users\chris\Downloads\govpress/content-page.php:23
+#: C:\Users\chris\Downloads\govpress/content-single.php:48
+#: C:\Users\chris\Downloads\govpress/content.php:45
+#: C:\Users\chris\Downloads\govpress/templates/home-page.php:33
+msgid "Edit"
+msgstr "Modifier"
+
+#: C:\Users\chris\Downloads\govpress/content-single.php:32
+#, php-format
+msgid "About %s"
+msgstr "A propos de %s"
+
+#: C:\Users\chris\Downloads\govpress/content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\govpress/content.php:42
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: C:\Users\chris\Downloads\govpress/content.php:42
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: C:\Users\chris\Downloads\govpress/content.php:42
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: C:\Users\chris\Downloads\govpress/footer.php:36
+#, php-format
+msgid "%1$s, the %2$s theme for government."
+msgstr "%1$s, le thème %2$s pour le gouvernement."
+
+#: C:\Users\chris\Downloads\govpress/functions.php:45
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: C:\Users\chris\Downloads\govpress/functions.php:46
+msgid "Icon Menu"
+msgstr "Menu icon"
+
+#: C:\Users\chris\Downloads\govpress/functions.php:70
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: C:\Users\chris\Downloads\govpress/functions.php:79
+msgid "Home Page Hero"
+msgstr "Page d'accueil héro"
+
+#: C:\Users\chris\Downloads\govpress/functions.php:88
+msgid "Home Page Featured"
+msgstr "Page d'acceuil en avant"
+
+#: C:\Users\chris\Downloads\govpress/functions.php:98
+msgid "Footer Area One"
+msgstr "Zone de pied de page 1"
+
+#: C:\Users\chris\Downloads\govpress/functions.php:107
+msgid "Footer Area Two"
+msgstr "Zone de pied de page 2"
+
+#: C:\Users\chris\Downloads\govpress/functions.php:116
+msgid "Footer Area Three"
+msgstr "Zone de pied de page 3"
+
+#: C:\Users\chris\Downloads\govpress/functions.php:125
+msgid "Footer Text"
+msgstr "Texte de pied de page"
+
+#: C:\Users\chris\Downloads\govpress/header.php:30
+msgid "Menu"
+msgstr "Menu"
+
+#: C:\Users\chris\Downloads\govpress/header.php:31
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: C:\Users\chris\Downloads\govpress/inc/customizer.php:22
+msgid "Header Tagline Color"
+msgstr "Couleur du slogan d'entête"
+
+#: C:\Users\chris\Downloads\govpress/inc/customizer.php:34
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: C:\Users\chris\Downloads\govpress/inc/customizer.php:45
+msgid "Primary Link Color"
+msgstr "Couleur de lien principale"
+
+#: C:\Users\chris\Downloads\govpress/inc/customizer.php:56
+msgid "Primary Link Hover"
+msgstr "Lien pricipale survolé"
+
+#: C:\Users\chris\Downloads\govpress/inc/extras.php:78
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: C:\Users\chris\Downloads\govpress/inc/template-tags.php:26
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: C:\Users\chris\Downloads\govpress/inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anciens articles"
+
+#: C:\Users\chris\Downloads\govpress/inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles plus récents<span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\govpress/inc/template-tags.php:67
+msgid "Post navigation"
+msgstr "Navigation de l&rsquo;article"
+
+#: C:\Users\chris\Downloads\govpress/inc/template-tags.php:70
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: C:\Users\chris\Downloads\govpress/inc/template-tags.php:71
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\govpress/inc/template-tags.php:96
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Posté le %1$s</span><span class=\"byline\"> par "
+"%2$s</span>"
+
+#: C:\Users\chris\Downloads\govpress/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour %s"
+
+#: C:\Users\chris\Downloads\govpress/searchform.php:4
+#: C:\Users\chris\Downloads\govpress/sidebar.php:13
+msgid "Search"
+msgstr "Recherche"
+
+#: C:\Users\chris\Downloads\govpress/searchform.php:9
+#: C:\Users\chris\Downloads\govpress/searchform.php:10
+msgid "Search for:"
+msgstr "Rechercher:"
+
+#: C:\Users\chris\Downloads\govpress/sidebar-page-parent.php:11
+msgid "Pages"
+msgstr "Pages"
+
+#: C:\Users\chris\Downloads\govpress/sidebar.php:25
+msgid "Meta"
+msgstr "Méta"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Les plus utilisées"
+
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "Essayez de regarder dans les archives mensuelles. %1$s"
+
+#~ msgid "All %s posts"
+#~ msgstr "Afficher tous les articles par %s"
+
+#~ msgid "Permalink to %s"
+#~ msgstr "Permalien vers %s"
+
+#~ msgid ", "
+#~ msgstr ", "
+
+#~ msgid ""
+#~ "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+#~ "\">permalink</a>."
+#~ msgstr ""
+#~ "Cette entrée a été étiqueté %2$s. Marquer le permalien <a href=\"%3$s\" "
+#~ "rel=\"bookmark\">permalien</a>."
+
+#~ msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+#~ msgstr "Marquer le <a href=\"%3$s\" rel=\"bookmark\">permalien</a>."
+
+#~ msgid ""
+#~ "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s"
+#~ "\" rel=\"bookmark\">permalink</a>."
+#~ msgstr ""
+#~ "Cette entrée a été publiée dans %1$s et étiqueté %2$s. Marquer le <a href="
+#~ "\"%3$s\" rel=\"bookmark\">permalien</a>."
+
+#~ msgid ""
+#~ "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel="
+#~ "\"bookmark\">permalink</a>."
+#~ msgstr ""
+#~ "Cette entrée a été publiée dans %1$s. Marquer le <a href=\"%3$s\" rel="
+#~ "\"bookmark\">permalien</a>."
+
+#~ msgid "Posted in %1$s"
+#~ msgstr "Posté dans %1$s"
+
+#~ msgid "Tagged %1$s"
+#~ msgstr "Etiqueté %1$s"
+
+#~ msgid "Proudly powered by %s"
+#~ msgstr "Fièrement propulsé par %s"
+
+#~ msgid "Theme: %1$s by %2$s."
+#~ msgstr "Thème: %1$s par %2$s."
+
+#~ msgid "Sidebar Two"
+#~ msgstr "Barre latérale 2"
+
+#~ msgid "Sidebar Three"
+#~ msgstr "Trois colonnes"
+
+#~ msgctxt "Oxygen serif font: on or off"
+#~ msgid "on"
+#~ msgstr "on"
+
+#~ msgid ""
+#~ "Thanks for installing %1$s from WordPress.com!<br/>To keep this theme up-"
+#~ "to-date on your Multisite network, please <a href=\"%2$s\">install the "
+#~ "WordPress.com Theme Updates plugin</a> and Network Activate it."
+#~ msgstr ""
+#~ "Merci d&rsquo;avoir installé %1$s pour WordPress.com!<br/>Pour maintenir "
+#~ "ce thème à jour sur votre réseau multisite, <a href=\"%2$s\">installez le "
+#~ "plugin WordPress.com Theme Updates</a> et activez le sur le réseau."
+
+#~ msgid "Don&lsquo;t show me this."
+#~ msgstr "Ne plus me montrer cela. "
