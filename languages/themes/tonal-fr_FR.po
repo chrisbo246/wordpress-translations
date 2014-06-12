@@ -1,15 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Tonal\n"
-"POT-Creation-Date: 2014-03-23 23:04+0100\n"
-"PO-Revision-Date: 2014-03-24 02:34+0100\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/tonal\n"
+"POT-Creation-Date: 2014-03-31 13:06:11+00:00\n"
+"PO-Revision-Date: 2014-06-12 21:15+0100\n"
 "Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Poedit 1.6.5\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
@@ -18,11 +19,11 @@ msgstr ""
 "X-Poedit-SearchPath-0: C:\\Users\\chris\\Downloads\\tonal-wpcom-1-0\\tonal-"
 "wpcom\n"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/404.php:15
+#: 404.php:15
 msgid "Oops! That page can&rsquo;t be found."
 msgstr "Oups! Cette page est introuvable."
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/404.php:19
+#: 404.php:19
 msgid ""
 "It looks like nothing was found at this location. Maybe try one of the links "
 "below or a search?"
@@ -30,125 +31,116 @@ msgstr ""
 "Il ressemble que rien n'ai été trouvé à cet endroit. Essayez peut-être "
 "l&rsquo;un des liens ci-dessous ou une recherche?"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/404.php:27
+#: 404.php:27
 msgid "Most Used Categories"
 msgstr "Les plus utilisées"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/404.php:44
-#, php-format
+#. translators: %1$s: smiley
+#: 404.php:44
 msgid "Try looking in the monthly archives. %1$s"
 msgstr "Essayez de regarder dans les archives mensuelles. %1$s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:27
-#, php-format
+#: archive.php:27
 msgid "Author: %s"
 msgstr "Auteur: %s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:30
-#, php-format
+#: archive.php:30
 msgid "Day: %s"
 msgstr "Jour: %s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:33
-#, php-format
+#: archive.php:33
 msgid "Month: %s"
 msgstr "Mois: %s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:33
+#: archive.php:33
 msgctxt "monthly archives date format"
 msgid "F Y"
 msgstr "F Y"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:36
-#, php-format
+#: archive.php:36
 msgid "Year: %s"
 msgstr "Année: %s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:36
+#: archive.php:36
 msgctxt "yearly archives date format"
 msgid "Y"
 msgstr "Y"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:39
+#: archive.php:39
 msgid "Asides"
 msgstr "En passant"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:42
+#: archive.php:42
 msgid "Galleries"
 msgstr "Galeries"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:45
+#: archive.php:45
 msgid "Images"
 msgstr "Images"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:48
+#: archive.php:48
 msgid "Videos"
 msgstr "Vidéos"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:51
+#: archive.php:51
 msgid "Quotes"
 msgstr "Citations"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:54
+#: archive.php:54
 msgid "Links"
 msgstr "Liens"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:57
+#: archive.php:57
 msgid "Statuses"
 msgstr "Statuts"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:60
+#: archive.php:60
 msgid "Audios"
 msgstr "Audios"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:63
+#: archive.php:63
 msgid "Chats"
 msgstr "Conversations"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/archive.php:66
+#: archive.php:66
 msgid "Archives"
 msgstr "Archives"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:30
-#, php-format
+#: comments.php:30
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
 msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
 msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:37
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:55
+#: comments.php:37 comments.php:55
 msgid "Comment navigation"
 msgstr "Navigation des commentaires"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:38
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:56
+#: comments.php:38 comments.php:56
 msgid "&larr; Older Comments"
 msgstr "&larr; Commentaire plus ancien"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:39
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:57
+#: comments.php:39 comments.php:57
 msgid "Newer Comments &rarr;"
 msgstr "Commentaires plus récents &rarr;"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/comments.php:67
+#: comments.php:67
 msgid "Comments are closed."
 msgstr "Les commentaires sont fermés."
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-none.php:13
+#: content-none.php:13
 msgid "Nothing Found"
 msgstr "Rien n&rsquo;a été trouvé"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-none.php:19
-#, php-format
+#: content-none.php:19
 msgid ""
 "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
 "Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</"
 "a>&nbsp;!"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-none.php:23
+#: content-none.php:23
 msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
@@ -156,7 +148,7 @@ msgstr ""
 "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec "
 "des mots différents."
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-none.php:28
+#: content-none.php:28
 msgid ""
 "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
 "searching can help."
@@ -164,39 +156,28 @@ msgstr ""
 "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. "
 "Essayez en lançant une recherche."
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-page.php:18
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:42
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:47
+#: content-page.php:18 content-single.php:44 content.php:49
 msgid "Pages:"
 msgstr "Pages:"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-page.php:24
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:84
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:84
+#: content-page.php:24 content-single.php:86 content.php:86
 msgid "Edit"
 msgstr "Modifier"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:12
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:12
-#, php-format
+#: content-single.php:12 content.php:12
 msgid "All %s posts"
 msgstr "Afficher tous les articles par %s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:26
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:26
-#, php-format
+#: content-single.php:28 content.php:28
 msgid "Permalink to %s"
 msgstr "Permalien vers %s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:53
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:56
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:61
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:71
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:55 content-single.php:58 content.php:63 content.php:73
 msgid ", "
 msgstr ", "
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:61
-#, php-format
+#: content-single.php:63
 msgid ""
 "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
 "\">permalink</a>."
@@ -204,13 +185,11 @@ msgstr ""
 "Cette entrée a été étiqueté %2$s. Marquer le permalien <a href=\"%3$s\" rel="
 "\"bookmark\">permalien</a>."
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:63
-#, php-format
+#: content-single.php:65
 msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
 msgstr "Marquer le <a href=\"%3$s\" rel=\"bookmark\">permalien</a>."
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:69
-#, php-format
+#: content-single.php:71
 msgid ""
 "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
 "rel=\"bookmark\">permalink</a>."
@@ -218,8 +197,7 @@ msgstr ""
 "Cette entrée a été publiée dans %1$s et étiqueté %2$s. Marquer le <a href="
 "\"%3$s\" rel=\"bookmark\">permalien</a>."
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content-single.php:71
-#, php-format
+#: content-single.php:73
 msgid ""
 "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
 "\">permalink</a>."
@@ -227,96 +205,93 @@ msgstr ""
 "Cette entrée a été publiée dans %1$s. Marquer le <a href=\"%3$s\" rel="
 "\"bookmark\">permalien</a>."
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:44
+#: content.php:46
 msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:65
-#, php-format
+#: content.php:67
 msgid "Posted in %1$s"
 msgstr "Posté dans %1$s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:75
-#, php-format
+#: content.php:77
 msgid "Tagged %1$s"
 msgstr "Etiqueté %1$s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:81
+#: content.php:83
 msgid "Leave a comment"
 msgstr "Laisser un commentaire"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:81
+#: content.php:83
 msgid "1 Comment"
 msgstr "Un commentaire"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/content.php:81
+#: content.php:83
 msgid "% Comments"
 msgstr "% commentaires"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/footer.php:17
-#, php-format
+#: footer.php:17
 msgid "Proudly powered by %s"
 msgstr "Fièrement propulsé par %s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/footer.php:19
-#, php-format
+#: footer.php:19
 msgid "Theme: %1$s by %2$s."
 msgstr "Thème: %1$s par %2$s."
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/functions.php:43
+#: functions.php:43
 msgid "Primary Menu"
 msgstr "Menu principal"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/functions.php:66
+#: functions.php:66
 msgid "Sidebar One"
 msgstr "Barre latérale principale"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/functions.php:74
+#: functions.php:74
 msgid "Sidebar Two"
 msgstr "Barre latérale 2"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/functions.php:82
+#: functions.php:82
 msgid "Sidebar Three"
 msgstr "Trois colonnes"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/functions.php:105
+#. translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:105
 msgctxt "Oxygen serif font: on or off"
 msgid "on"
 msgstr "on"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/extras.php:62
-#, php-format
+#: inc/extras.php:62
 msgid "Page %s"
 msgstr "Page %s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:23
+#: inc/template-tags.php:23
 msgid "Posts navigation"
 msgstr "Navigation des articles"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:27
+#: inc/template-tags.php:27
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
 msgstr "<span class=\"meta-nav\">&larr;</span> Articles plus anciens"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:31
+#: inc/template-tags.php:31
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Articles plus récents <span class=\"meta-nav\">&rarr;</span>"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:56
+#: inc/template-tags.php:56
 msgid "Post navigation"
 msgstr "Navigation de l&rsquo;article"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:59
+#: inc/template-tags.php:59
 msgctxt "Previous post link"
 msgid "<span class=\"meta-nav\">&larr;</span> %title"
 msgstr "<span class=\"meta-nav\">&larr;</span> %title"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:60
+#: inc/template-tags.php:60
 msgctxt "Next post link"
 msgid "%title <span class=\"meta-nav\">&rarr;</span>"
 msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/template-tags.php:85
-#, php-format
+#: inc/template-tags.php:85
 msgid ""
 "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
 "%2$s</span>"
@@ -324,26 +299,49 @@ msgstr ""
 "<span class=\"posted-on\">Posté le %1$s</span><span class=\"byline\"> par "
 "%2$s</span>"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/updater.php:152
-#, php-format
-msgid ""
-"Thanks for installing %1$s from WordPress.com!<br/>To keep this theme up-to-"
-"date on your Multisite network, please <a href=\"%2$s\">install the "
-"WordPress.com Theme Updates plugin</a> and Network Activate it."
-msgstr ""
-"Merci d&rsquo;avoir installé %1$s pour WordPress.com!<br/>Pour maintenir ce "
-"thème à jour sur votre réseau multisite, <a href=\"%2$s\">installez le "
-"plugin WordPress.com Theme Updates</a> et activez le sur le réseau."
-
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/inc/updater.php:156
-msgid "Don&lsquo;t show me this."
-msgstr "Ne plus me montrer cela. "
-
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/search.php:16
-#, php-format
+#: search.php:16
 msgid "Search Results for: %s"
 msgstr "Résultats de recherche pour %s"
 
-#: C:\Users\chris\Downloads\tonal-wpcom-1-0\tonal-wpcom/sidebar.php:9
+#: sidebar.php:9
 msgid "Skip to content"
 msgstr "Aller au contenu principal"
+
+#. Theme Name of the plugin/theme
+msgid "Tonal"
+msgstr "Tonal"
+
+#. Theme URI of the plugin/theme
+msgid "http://tonaldemo.wordpress.com/"
+msgstr "http://tonaldemo.wordpress.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Tonal takes its cue from your content, with a minimal style that changes "
+"based on your background color. This theme has large featured images, full-"
+"width videos, and post formats that look great on any device."
+msgstr ""
+"Tonal s'inspire de votre contenu, avec un style minimaliste qui change en "
+"fonction de votre couleur de fond. Ce thème utilise de grandes images à la "
+"une, des vidéos en pleine largeur et des formats d'articles qui présentent "
+"impécablement sur n'importe quel appareil."
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "http://theme.wordpress.com/"
+msgstr "http://theme.wordpress.com/"
+
+#~ msgid ""
+#~ "Thanks for installing %1$s from WordPress.com!<br/>To keep this theme up-"
+#~ "to-date on your Multisite network, please <a href=\"%2$s\">install the "
+#~ "WordPress.com Theme Updates plugin</a> and Network Activate it."
+#~ msgstr ""
+#~ "Merci d&rsquo;avoir installé %1$s pour WordPress.com!<br/>Pour maintenir "
+#~ "ce thème à jour sur votre réseau multisite, <a href=\"%2$s\">installez le "
+#~ "plugin WordPress.com Theme Updates</a> et activez le sur le réseau."
+
+#~ msgid "Don&lsquo;t show me this."
+#~ msgstr "Ne plus me montrer cela. "
