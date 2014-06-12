@@ -2,10 +2,10 @@
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: _s 1.0-wpcom\n"
-"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2014-03-30 17:37:52+00:00\n"
-"MIME-Version: 1.0\n"
+"Project-Id-Version: Pictorico 1.04\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/pictorico\n"
+"POT-Creation-Date: 2014-06-05 15:11:36+00:00\n"
+"MIME-Version: 1.04\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
@@ -17,18 +17,7 @@ msgid "Oops! That page can&rsquo;t be found."
 msgstr ""
 
 #: 404.php:19
-msgid ""
-"It looks like nothing was found at this location. Maybe try one of the links "
-"below or a search?"
-msgstr ""
-
-#: 404.php:27
-msgid "Most Used Categories"
-msgstr ""
-
-#. translators: %1$s: smiley
-#: 404.php:44
-msgid "Try looking in the monthly archives. %1$s"
+msgid "It looks like nothing was found at this location. Maybe try a search?"
 msgstr ""
 
 #: archive.php:27
@@ -93,7 +82,7 @@ msgstr ""
 msgid "Chats"
 msgstr ""
 
-#: archive.php:66 sidebar.php:16
+#: archive.php:66
 msgid "Archives"
 msgstr ""
 
@@ -104,20 +93,29 @@ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
 msgstr[0] ""
 msgstr[1] ""
 
-#: comments.php:35 comments.php:52
+#: comments.php:35 comments.php:53
 msgid "Comment navigation"
 msgstr ""
 
-#: comments.php:36 comments.php:53
+#: comments.php:36 comments.php:54
 msgid "&larr; Older Comments"
 msgstr ""
 
-#: comments.php:37 comments.php:54
+#: comments.php:37 comments.php:55
 msgid "Newer Comments &rarr;"
 msgstr ""
 
-#: comments.php:64
+#: comments.php:65
 msgid "Comments are closed."
+msgstr ""
+
+#: content-featured.php:36 content-home.php:39 content-page.php:38
+#: content-single.php:78 content.php:61
+msgid "Edit"
+msgstr ""
+
+#: content-home.php:28 content-single.php:30
+msgid "All %s posts"
 msgstr ""
 
 #: content-none.php:13
@@ -141,36 +139,32 @@ msgid ""
 "searching can help."
 msgstr ""
 
-#: content-page.php:18 content-single.php:20 content.php:27
+#: content-page.php:33 content-single.php:38 content.php:27
 msgid "Pages:"
 msgstr ""
 
-#: content-page.php:23 content-single.php:60 content.php:61
-msgid "Edit"
-msgstr ""
-
 #. translators: used between list items, there is a space after the comma
-#: content-single.php:29 content-single.php:32 content.php:38 content.php:48
+#: content-single.php:47 content-single.php:50 content.php:38 content.php:48
 msgid ", "
 msgstr ""
 
-#: content-single.php:37
+#: content-single.php:55
 msgid ""
 "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
 "\">permalink</a>."
 msgstr ""
 
-#: content-single.php:39
+#: content-single.php:57
 msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
 msgstr ""
 
-#: content-single.php:45
+#: content-single.php:63
 msgid ""
 "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
 "rel=\"bookmark\">permalink</a>."
 msgstr ""
 
-#: content-single.php:47
+#: content-single.php:65
 msgid ""
 "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
 "\">permalink</a>."
@@ -200,24 +194,52 @@ msgstr ""
 msgid "% Comments"
 msgstr ""
 
-#: footer.php:15
+#: footer.php:17
 msgid "http://wordpress.org/"
 msgstr ""
 
-#: footer.php:15
+#: footer.php:17
 msgid "Proudly powered by %s"
 msgstr ""
 
-#: footer.php:17
+#: footer.php:19
 msgid "Theme: %1$s by %2$s."
 msgstr ""
 
-#: functions.php:45
+#: functions.php:48
 msgid "Primary Menu"
 msgstr ""
 
-#: functions.php:73
-msgid "Sidebar"
+#: functions.php:78
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:87
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:96
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:105
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. 		by Open Sans Condensed, translate this to 'off'. Do not translate into
+#. your own language.
+#: functions.php:152
+msgctxt "Open Sans Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. 		by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:161
+msgctxt "PT Serif font: on or off"
+msgid "on"
 msgstr ""
 
 #: header.php:31
@@ -232,60 +254,52 @@ msgstr ""
 msgid "Page %s"
 msgstr ""
 
-#: inc/template-tags.php:23
+#: inc/template-tags.php:21
 msgid "Posts navigation"
 msgstr ""
 
-#: inc/template-tags.php:27
-msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\"></span> Older posts"
 msgstr ""
 
-#: inc/template-tags.php:31
-msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\"></span>"
 msgstr ""
 
-#: inc/template-tags.php:56
+#: inc/template-tags.php:52
 msgid "Post navigation"
 msgstr ""
 
-#: inc/template-tags.php:59
+#: inc/template-tags.php:55
 msgctxt "Previous post link"
-msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgid "<span class=\"meta-nav\"></span> %title"
 msgstr ""
 
-#: inc/template-tags.php:60
+#: inc/template-tags.php:56
 msgctxt "Next post link"
-msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgid "%title <span class=\"meta-nav\"></span>"
 msgstr ""
 
-#: inc/template-tags.php:85
-msgid ""
-"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
-"%2$s</span>"
+#: inc/template-tags.php:111
+msgid "<span class=\"posted-on\">%1$s</span>"
 msgstr ""
 
 #: search.php:16
 msgid "Search Results for: %s"
 msgstr ""
 
-#: sidebar.php:23
-msgid "Meta"
-msgstr ""
-
 #. Theme Name of the plugin/theme
-msgid "_s"
+msgid "Pictorico"
 msgstr ""
 
 #. Theme URI of the plugin/theme
-msgid "http://underscores.me/"
+msgid "http://theme.wordpress.com/themes/pictorico/"
 msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
-"Hi. I'm a starter theme called <code>_s</code>, or <em>underscores</em>, if "
-"you like. I'm a theme meant for hacking so don't use me as a <em>Parent "
-"Theme</em>. Instead try turning me into the next, most awesome, WordPress "
-"theme out there. That's what I'm here for."
+"A single-column, grid-based portfolio theme with large featured images and a "
+"post slider, perfect for photoblogging or a portfolio site."
 msgstr ""
 
 #. Author of the plugin/theme
@@ -293,5 +307,5 @@ msgid "Automattic"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "http://automattic.com/"
+msgid "http://automattic.com"
 msgstr ""
