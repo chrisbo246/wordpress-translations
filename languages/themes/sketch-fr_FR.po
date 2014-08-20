@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sketch\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/tonal\n"
+"POT-Creation-Date: 2014-08-20 20:24+0100\n"
+"PO-Revision-Date: 2014-08-20 20:33+0100\n"
+"Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: C:\\Users\\chris\\Downloads\\sketch-"
+"wpcom-1-0-1\\sketch-wpcom\n"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups! Cette page est introuvable."
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Il semble que rien n'ai été trouvé à cet endroit. Essayez peut-être une "
+"recherche?"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive-jetpack-portfolio.php:19
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr "Jour: %s"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr "Mois: %s"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr "Année: %s"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:39
+msgid "Asides"
+msgstr "En passant"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:48
+msgid "Videos"
+msgstr "Vidéos"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:51
+msgid "Quotes"
+msgstr "Citations"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:54
+msgid "Links"
+msgstr "Liens"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:57
+msgid "Statuses"
+msgstr "Statuts"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:63
+msgid "Chats"
+msgstr "Conversations"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/archive.php:66
+msgid "Archives"
+msgstr "Archives"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/comments.php:35
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/comments.php:53
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/comments.php:36
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/comments.php:54
+msgid "< Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/comments.php:37
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/comments.php:55
+msgid "Newer Comments >"
+msgstr "Commentaires plus récents &rarr;"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/comments.php:65
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-featured.php:32
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-page.php:24
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-portfolio-single.php:18
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-portfolio.php:17
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-single.php:14
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content.php:24
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/portfolio-page.php:34
+msgid "Edit"
+msgstr "Modifier"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-none.php:13
+msgid "Nothing Found"
+msgstr "Rien n&rsquo;a été trouvé"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</"
+"a>&nbsp;!"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec "
+"des mots différents."
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-none.php:28
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/portfolio-page.php:94
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. "
+"Essayez en lançant une recherche."
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-page.php:18
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-portfolio-single.php:26
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-single.php:22
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content.php:36
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/portfolio-page.php:28
+msgid "Pages:"
+msgstr "Pages:"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-portfolio-single.php:16
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-portfolio-single.php:23
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-portfolio-single.php:38
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-portfolio-single.php:38
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-portfolio-single.php:38
+msgid "% Comments"
+msgstr "% commentaires"
+
+#. translators: used between list items, there is a space after the comma
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-single.php:31
+msgid ", "
+msgstr ", "
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/content-single.php:35
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Posté dans %1$s"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/footer.php:15
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/footer.php:17
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème: %1$s par %2$s."
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/functions.php:66
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/functions.php:67
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/functions.php:102
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/functions.php:147
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/header.php:23
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/header.php:36
+msgid "Menu"
+msgstr "Menu"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/customizer.php:19
+msgid "Theme"
+msgstr "Thème"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/customizer.php:29
+msgid "Portfolio Thumbnail Aspect Ratio"
+msgstr "Proportion de la miniature du Portfolio"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/customizer.php:33
+msgid "Landscape (4:3)"
+msgstr "Paysage (4:3)"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/customizer.php:34
+msgid "Portrait (3:4)"
+msgstr "Portrait (3:4)"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/customizer.php:35
+msgid "Square (1:1)"
+msgstr "Carré (1:1)"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/customizer.php:45
+msgid "Hide title and content on Portfolio Page Template"
+msgstr "Cacher le titre et le contenu sur le modèle de page Portfolio"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/extras.php:71
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/template-tags.php:27
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/template-tags.php:31
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr "<span class=\"meta-nav\">Précédent</span>"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/template-tags.php:35
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr "<span class=\"meta-nav\">Suivant</span>"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/template-tags.php:58
+msgid "Post navigation"
+msgstr "Navigation de l&rsquo;article"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/template-tags.php:61
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"><</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/template-tags.php:62
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">></span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/template-tags.php:87
+#, php-format
+msgid ""
+"<span class=\"posted-on\">%1$s</span><span class=\"byline\"><span class=\"sep"
+"\"> | </span>%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">%1$s</span><span class=\"byline\"><span class=\"sep"
+"\"> | </span>%2$s</span>"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/template-tags.php:173
+msgid "More Projects"
+msgstr "Plus de projects"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/template-tags.php:217
+#, php-format
+msgid "All %s posts"
+msgstr "Afficher tous les articles par %s"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/updater.php:152
+#, php-format
+msgid ""
+"Thanks for installing %1$s from WordPress.com!<br/>To keep this theme up-to-"
+"date on your Multisite network, please <a href=\"%2$s\">install the "
+"WordPress.com Theme Updates plugin</a> and Network Activate it."
+msgstr ""
+"Merci d&rsquo;avoir installé %1$s pour WordPress.com!<br/>Pour maintenir ce "
+"thème à jour sur votre réseau multisite, <a href=\"%2$s\">installez le "
+"plugin WordPress.com Theme Updates</a> et activez le sur le réseau."
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/inc/updater.php:156
+msgid "Don&lsquo;t show me this."
+msgstr "Ne plus me montrer cela. "
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/portfolio-page.php:84
+msgid "No Project Found"
+msgstr "Aucun projet trouvé"
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/portfolio-page.php:90
+#, php-format
+msgid ""
+"Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier projet? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: C:\Users\chris\Downloads\sketch-wpcom-1-0-1\sketch-wpcom/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour %s"

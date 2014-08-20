@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Isola\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/tonal\n"
+"POT-Creation-Date: 2014-08-20 20:57+0100\n"
+"PO-Revision-Date: 2014-08-20 20:59+0100\n"
+"Last-Translator: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language-Team: Christophe BOISIER <christophe.boisier@live.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\Users\\chris\\Downloads\\isola-wpcom-1-0-3\\isola-"
+"wpcom\n"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups! Cette page est introuvable."
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Il semble que rien n'ai été trouvé à cet endroit. Essayez peut-être une "
+"recherche?"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr "Jour: %s"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr "Mois: %s"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr "Année: %s"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:39
+msgid "Asides"
+msgstr "En passant"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:48
+msgid "Videos"
+msgstr "Vidéos"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:51
+msgid "Quotes"
+msgstr "Citations"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:54
+msgid "Links"
+msgstr "Liens"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:57
+msgid "Statuses"
+msgstr "Statuts"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:63
+msgid "Chats"
+msgstr "Conversations"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/archive.php:66
+msgid "Archives"
+msgstr "Archives"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/comments.php:35
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/comments.php:53
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/comments.php:36
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/comments.php:37
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/comments.php:65
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-aside.php:11
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-gallery.php:17
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content.php:16
+#, php-format
+msgid "All %s posts"
+msgstr "Afficher tous les articles par %s"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-aside.php:19
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-gallery.php:26
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-single.php:9
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-single.php:59
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content.php:8
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content.php:67
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-aside.php:22
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-gallery.php:29
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-page.php:18
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-single.php:63
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content.php:71
+msgid "Pages:"
+msgstr "Pages:"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-aside.php:36
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-gallery.php:38
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-search.php:23
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content.php:80
+msgid "Comment"
+msgstr "Commentaire"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-aside.php:36
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-gallery.php:38
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-search.php:23
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content.php:80
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-aside.php:36
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-gallery.php:38
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-search.php:23
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content.php:80
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-aside.php:51
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-gallery.php:53
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-page.php:24
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-search.php:40
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-single.php:82
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content.php:95
+msgid "Edit"
+msgstr "Modifier"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-none.php:13
+msgid "Nothing Found"
+msgstr "Rien n&rsquo;a été trouvé"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</"
+"a>&nbsp;!"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec "
+"des mots différents."
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. "
+"Essayez en lançant une recherche."
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/footer.php:15
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/footer.php:17
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème: %1$s par %2$s."
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/functions.php:46
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/header.php:38
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/functions.php:81
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own language.
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/functions.php:147
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/header.php:23
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/header.php:54
+msgid "Close Menu"
+msgstr "Fermer le menu"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anciens articles"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nouveaux articles <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navigation de l&rsquo;article"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/inc/updater.php:152
+#, php-format
+msgid ""
+"Thanks for installing %1$s from WordPress.com!<br/>To keep this theme up-to-"
+"date on your Multisite network, please <a href=\"%2$s\">install the "
+"WordPress.com Theme Updates plugin</a> and Network Activate it."
+msgstr ""
+"Merci d&rsquo;avoir installé %1$s pour WordPress.com!<br/>Pour maintenir ce "
+"thème à jour sur votre réseau multisite, <a href=\"%2$s\">installez le "
+"plugin WordPress.com Theme Updates</a> et activez le sur le réseau."
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/inc/updater.php:156
+msgid "Don&lsquo;t show me this."
+msgstr "Ne plus me montrer cela. "
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour %s"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/searchform.php:3
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/searchform.php:14
+msgid "Search for:"
+msgstr "Rechercher:"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/searchform.php:14
+msgid "Search …"
+msgstr "Recherche"
+
+#: C:\Users\chris\Downloads\isola-wpcom-1-0-3\isola-wpcom/searchform.php:16
+msgid "Search"
+msgstr "Recherche"
